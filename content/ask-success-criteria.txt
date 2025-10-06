@@ -20,11 +20,11 @@ with organizational goals.
 
 Quantitative Metrics
 
-- Number of Complaints: [Target amount or percentage]
-- Time savings: [Target time reduction]
-- Quality improvement: [Target quality score]
-- Customer satisfaction: [Target rating or score]
-- Employee engagement: [Target survey score]
+- Number of Complaints: Reduce internal communication-related complaints by 30% within 12 months (tracked through HR logs, helpdesk tickets, of complaints to one another or during meetings)
+- Time savings: Achieve an average 15% reduction in time spent clarifying/re-explaining tasks (measured via project management tool data or employee time surveys).
+- Quality improvement: mprove project/task accuracy and reduce rework errors by 20% (tracked through QA reports or manager feedback).
+- Customer satisfaction: Increase customer satisfaction ratings related to clarity/reliability of service to at least 90% positive on post-service surveys.
+- Employee engagement: Raise employee engagement survey scores on communication related questions by 15% compared to the previous year.
 
 Qualitative Indicators
 [List qualitative changes you expect to observe]
