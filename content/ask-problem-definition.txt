@@ -1,70 +1,69 @@
-TESTING FILE UPDATE
-
-
-
-# Problem Definition Framework
-# Use this template to clearly define your management problem
-
-## X → Y Framework
-### Current State (X - What's happening now that's problematic?)
-Within an organization, there are multiple departments with 
-different teams. The problem is how do we improve communication 
-and manage the different communications styles within an organization. 
-Communication is essential for an organization to run smoothly, 
+**Problem Definition Framework:**
+Within an organization, there are multiple departments with different teams. The problem is how do we improve communication 
+and manage the different communications styles within an organization. Communication is essential for an organization to run smoothly, 
 and often the most frustrating part when working with people. 
  
 
-### Desired State (Y - What outcome do we want to achieve?)
+**What outcome do we want to achieve?:**
 Improve communication with different teams in departments to 
 reduce frustration and improve efficiency. 
 
-## PICOC Framework
-### Population (P - Who is affected by this problem?)
-[Identify the specific group(s) experiencing the problem]
-My notes:
-Coworkers and employees with in an organization
+**PICOC Framework:**
 
-### Intervention (I - What solution/action are we considering?)
-[Describe the potential intervention or solution approach]
+**Population (P - Who is affected by this problem?):**
+Employees within an organization. 
 
-### Comparison (C - What alternatives exist?)
-[List alternative approaches or the "do nothing" option]
+**Intervention (I - What solution/action are we considering?)**
+Introduce an organization-wide communication improvement program that includes:
+     • Training workshops on effective communication and active listening
+     • Establish a common ground use of standardized communication tools (ex: Slack, Teams, project management platforms) to reduce misalignment
+     • Establishing communication norms across departments (ex: frequency of updates, clear expectations on response times, preferred communication 
+       channels)
+     • Encouraging team building exercises to develop a mutual understanding of communication styles across coworkers
 
-### Outcomes (O - What will success look like?)
-[Define specific, measurable outcomes]
+**Comparison (C - What alternatives exist?)**
+    • Do nothing: Allow teams to continue using their own informal communication methods.
+    • Team specific training: Each team manages its own communication training without organization wide standards.
+    • Technology only solution: Rely solely on software platforms (ex: Microsoft Teams) without addressing any issues.
+    • External consultants: Hire communication specialists to facilitate workshops and coach leadership.
 
-my notes:
+**Outcomes (O - What will success look like?)**
+Quantitative:
+    • Hoping for 10% reduction in project delays or errors caused by miscommunication (tracked via project management data).
+    • Hoping for 15% increase in employee satisfaction scores regarding communication (measured in engagement surveys).
+    • Increased cross-departmental collaboration as tracked by interdepartmental project participation.
 
-### Context (C - Where/when does this apply?)
-[Specify the organizational, geographic, or temporal context]
+Qualitative:
+    • Employees report greater clarity and reduced frustration.
+    • Leadership observes smoother coordination across departments.
+    • Less complaints from employees and managers during meetings, conversations, etc. 
 
-## Clear Problem Statement
-[Write a concise, specific statement of the management problem you're addressing]
 
-## Why This Problem Matters
-### Impact on Organization
-[Explain the consequences if this problem isn't addressed]
+**Context (C - Where/when does this apply?)**
+    • Organizational: Medium to large organizations with multiple departments and teams that depend on each other.
+    • Geographic: Can apply in both in person and hybrid/remote organizations.
+    • Temporal: Immediate need to address communication challenges, it will take 6-12 months to be put in place and see results. 
 
-### Stakeholder Impact
-[Describe how different groups are affected]
 
-### Strategic Alignment
-[Connect to organizational goals and priorities]
+**Why This Problem Matters?**
 
-## Evidence Questions to Explore
-### For the Problem (Step 2)
-- What evidence shows this problem exists?
-- How widespread is this problem?
-- What are the root causes?
+**Impact on Organization**
+1. Reduced efficiency and productivity from unclear expectations.
+2. Delays in project timelines and potential financial losses.
+3. Risk of lower employee engagement and higher turnover if frustrations persist.
+4. Unhappy coworkers causing the atmosphere to be negative
 
-### For the Solution (Step 4)
-- What evidence supports our preferred solution?
-- Has this solution worked in similar contexts?
-- What are the potential risks and benefits?
+**Stakeholder Impact**
+1. Employees: Frustrated by miscommunication and wasted effort.
+2. Managers: Struggle to align team priorities and ensure accountability.
+3. Clients/Customers: May experience delays or inconsistent service due to poor internal coordination.
 
----
-INSTRUCTIONS: 
-1. Replace all bracketed placeholders with your specific content
-2. Use GitHub Copilot to help with writing and organization
-3. Reference Module 2 content for framework guidance
-4. Save frequently and commit to GitHub
+**Strategic Alignment**
+1. Strong communication supports organizational goals of efficiency, innovation, and collaboration.
+2. Improves employee satisfaction, aligning with retention and culture building strategies.
+3. Enhances client satisfaction by ensuring smoother delivery of services.
+
+**Evidence Questions to Explore For the Problem**
+What evidence shows miscommunication is a recurring issue (ex: project delays, survey results)?
+How widespread is the problem across departments?
+What are the root causes: technology gaps, lack of training, cultural differences, unclear expectations?
