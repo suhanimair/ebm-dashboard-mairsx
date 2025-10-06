@@ -5,7 +5,7 @@ and is often the most frustrating part when working with people.
  
 
 **What outcome do we want to achieve?:**
-Improve communication with different teams in departments to 
+Improve communication with different teams in a department to 
 reduce frustration and improve efficiency. 
 
 **PICOC Framework:**
