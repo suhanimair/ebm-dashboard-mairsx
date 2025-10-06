@@ -1,7 +1,7 @@
 **Problem Definition Framework:**
 Within an organization, there are multiple departments with different teams. The problem is how do we improve communication 
-and manage the different communications styles within an organization. Communication is essential for an organization to run smoothly, 
-and often the most frustrating part when working with people. 
+and manage the different communication styles within an organization. Communication is essential for an organization to run smoothly, 
+and is often the most frustrating part when working with people. 
  
 
 **What outcome do we want to achieve?:**
@@ -11,20 +11,21 @@ reduce frustration and improve efficiency.
 **PICOC Framework:**
 
 **Population (P - Who is affected by this problem?):**
-Employees within an organization. 
+Employees within different departments. The main focus are estalbishing better communication through cross-functional teams in a department. 
 
 **Intervention (I - What solution/action are we considering?)**
-Introduce an organization-wide communication improvement program that includes:
+Introduce and focus on a department-wide communication improvement program that includes:
      • Training workshops on effective communication and active listening
-     • Establish a common ground use of standardized communication tools (ex: Slack, Teams, project management platforms) to reduce misalignment
+     • Establish common ground through the use of standardized communication tools (ex: Slack, Teams, project management platforms) to reduce 
+       misalignment
      • Establishing communication norms across departments (ex: frequency of updates, clear expectations on response times, preferred communication 
        channels)
      • Encouraging team building exercises to develop a mutual understanding of communication styles across coworkers
 
 **Comparison (C - What alternatives exist?)**
     • Do nothing: Allow teams to continue using their own informal communication methods.
-    • Team specific training: Each team manages its own communication training without organization wide standards.
-    • Technology only solution: Rely solely on software platforms (ex: Microsoft Teams) without addressing any issues.
+    • Team-specific training: Each team manages its own communication training without organization-wide standards.
+    • Technology-only solution: Rely solely on software platforms (ex: Microsoft Teams) without addressing any issues.
     • External consultants: Hire communication specialists to facilitate workshops and coach leadership.
 
 **Outcomes (O - What will success look like?)**
@@ -36,12 +37,12 @@ Quantitative:
 Qualitative:
     • Employees report greater clarity and reduced frustration.
     • Leadership observes smoother coordination across departments.
-    • Less complaints from employees and managers during meetings, conversations, etc. 
+    • Fewer complaints from employees and managers during meetings, conversations, etc. 
 
 
 **Context (C - Where/when does this apply?)**
     • Organizational: Medium to large organizations with multiple departments and teams that depend on each other.
-    • Geographic: Can apply in both in person and hybrid/remote organizations.
+    • Geographic: Can apply to both in-person and hybrid/remote organizations.
     • Temporal: Immediate need to address communication challenges, it will take 6-12 months to be put in place and see results. 
 
 
@@ -51,7 +52,7 @@ Qualitative:
 1. Reduced efficiency and productivity from unclear expectations.
 2. Delays in project timelines and potential financial losses.
 3. Risk of lower employee engagement and higher turnover if frustrations persist.
-4. Unhappy coworkers causing the atmosphere to be negative
+4. Unhappy coworkers causing the atmosphere to be negative.
 
 **Stakeholder Impact**
 1. Employees: Frustrated by miscommunication and wasted effort.

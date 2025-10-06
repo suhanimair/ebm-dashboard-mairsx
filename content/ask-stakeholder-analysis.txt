@@ -9,10 +9,11 @@
     organizational goals. Stronger communication also reflects positively on leadership effectiveness.
 
 **Employees/Staff: Medium Influence, Likely Supporter**
-- **Interest in Problem:** Miscommunication across departments makes it harder for leadership to align strategy, meet deadlines, and hit performance 
-    targets. It also increases frustration when managers have to resolve conflicts or clarify tasks repeatedly.
-- **Interest in Solution:** Leadership would gain smoother operations, fewer bottlenecks, improved employee morale, and better achievement of 
-    organizational goals. Stronger communication also reflects positively on leadership effectiveness.
+- **Interest in Problem:** Miscommunication leads to unclear instructions, duplicated work, frustration, and unnecessary stress. It can also cause 
+    tension between teams when expectations aren't aligned.
+- **Interest in Solution:** Employees would gain clearer direction, reduced stress, fewer conflicts, and more efficient workflows. They'd also feel 
+    more valued if their communication styles are recognized and respected. Potential downside: they may feel burdened by "extra" training or new 
+    tools at first.
 
 ## External Stakeholders
 **Customers/Clients:** Medium Influence, Likely Supporter 
@@ -21,7 +22,7 @@
 - **Interest in Solution:** Customers would gain smoother, faster, and more reliable service. They would experience fewer errors, better consistency, 
    and stronger trust in the organization. There’s little downside for them.
 
-**Suppliers:** Medium Influence, Likely Support
+**Suppliers:** Medium Influence, Likely Supporter
 - **Interest in Problem:** Miscommunication within the company can create inconsistent or unclear orders, delayed payments and onboarding, and 
   last-minute changes. This makes it harder for suppliers to plan production, manage inventory, and meet delivery deadlines.
 - **Interest in Solution:** Suppliers would benefit from clearer and timelier communication about requirements, schedules, and payments. This 
