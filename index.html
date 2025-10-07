@@ -6,17 +6,19 @@
     <title>My EBM Dashboard | MGT357 - Fall 2025</title>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        /* === BLUE THEME CSS === */
+        /* === MODERN TAN & BLACK THEME === */
         :root {
-            --primary-gradient: #f0f8ff;
-            --tab-active: #4682b4;
-            --tab-inactive: #87ceeb;
-            --step-pink: #5dade2;
-            --step-alt: #85c1e9;
-            --border-radius: 14px;
+            --primary-gradient: linear-gradient(135deg, #faf9f7 0%, #f5f3f0 100%);
+            --tab-active: #2c2c2c;                 /* bold black */
+            --tab-inactive: #d4c4a8;               /* warm tan */
+            --step-pink: #8b7355;                  /* deep tan for steps */
+            --step-alt: #a68b5b;                   /* lighter tan alternate */
+            --border-radius: 12px;
             --transition-speed: 0.25s;
-            --text-dark: #2c3e50;
-            --card-bg: rgba(255,255,255,0.99);
+            --text-dark: #1a1a1a;                  /* almost black text */
+            --card-bg: rgba(255,255,255,0.95);
+            --accent-tan: #c8b99c;                 /* medium tan */
+            --light-tan: #f0ebe4;                  /* very light tan */
         }
 
         * {
@@ -52,17 +54,18 @@
         }
 
         .header {
-            background: #4682b4;
+            background: linear-gradient(135deg, #2c2c2c 0%, #1a1a1a 100%);
             color: white;
             padding: 30px;
             text-align: center;
+            border-bottom: 3px solid var(--accent-tan);
         }
 
         .header h1 { font-size: 2.5em; margin-bottom: 10px; }
         .header p { font-size: 1.2em; opacity: 0.95; }
 
         .student-info {
-            background: rgba(176, 224, 230, 0.3);
+            background: var(--light-tan);
             padding: 15px;
             margin-top: 20px;
             border-radius: 10px;
@@ -71,14 +74,15 @@
             gap: 10px;
             font-size: 0.9em;
             color: var(--text-dark);
+            border: 1px solid var(--accent-tan);
         }
 
         /* Tabs */
-        .tab-nav { display: flex; background: #f0f8ff; border-bottom: 3px solid rgba(70,130,180,0.25); flex-wrap: wrap; }
-        .tab-button { flex:1; padding:15px 10px; text-align:center; cursor:pointer; background:var(--tab-inactive); color:white; font-weight:bold; font-size:1em; transition:all var(--transition-speed); border:none; border-right:2px solid rgba(255,255,255,0.15); word-wrap: break-word; overflow-wrap: break-word; min-width: 0; }
+        .tab-nav { display: flex; background: var(--light-tan); border-bottom: 3px solid var(--accent-tan); flex-wrap: wrap; }
+        .tab-button { flex:1; padding:15px 10px; text-align:center; cursor:pointer; background:var(--tab-inactive); color:white; font-weight:600; font-size:1em; transition:all var(--transition-speed); border:none; border-right:2px solid rgba(255,255,255,0.3); word-wrap: break-word; overflow-wrap: break-word; min-width: 0; }
         .tab-button:last-child { border-right:none; }
-        .tab-button:hover { background:#6bb6ff; transform:translateY(-2px); }
-        .tab-button.active { background:var(--tab-active); transform:translateY(-3px); box-shadow:0 5px 15px rgba(70,130,180,0.25); }
+        .tab-button:hover { background:#a68b5b; transform:translateY(-2px); }
+        .tab-button.active { background:var(--tab-active); transform:translateY(-3px); box-shadow:0 5px 15px rgba(44,44,44,0.25); }
 
         .tab-content { position:relative; min-height:500px; word-wrap: break-word; overflow-wrap: break-word; }
         .tab-panel { display:none; padding:40px; animation:fadeIn 0.3s ease-in; word-wrap: break-word; overflow-wrap: break-word; max-width: 100%; overflow-x: hidden; }
@@ -128,77 +132,55 @@
         .progress-step.completed::after { border-left-color:#5dade2; } .progress-step.active::after { border-left-color:#4682b4; } .progress-step.pending::after { border-left-color:#b0e0e6; }
         .progress-step:last-child::after { display:none; }
 
-        .btn { background:#87ceeb; color:white; padding:12px 25px; border:none; border-radius:25px; cursor:pointer; font-weight:bold; margin:10px 5px; transition:all var(--transition-speed); }
-        .btn:hover { transform:translateY(-2px); box-shadow:0 5px 15px rgba(70,130,180,0.28); }
+        .btn { background:linear-gradient(135deg, #2c2c2c, #1a1a1a); color:white; padding:12px 25px; border:none; border-radius:25px; cursor:pointer; font-weight:600; margin:10px 5px; transition:all var(--transition-speed); }
+        .btn:hover { transform:translateY(-2px); box-shadow:0 5px 15px rgba(44,44,44,0.28); background:linear-gradient(135deg, #1a1a1a, #000000); }
 
-        .milestone-tracker { background:#f8fcff; border-left:4px solid #4682b4; padding:20px; margin:20px 0; border-radius:8px; }
+        .milestone-tracker { background:var(--light-tan); border-left:4px solid var(--tab-active); padding:20px; margin:20px 0; border-radius:8px; }
         .milestone-tracker h4 { color:#4a132b; margin-bottom:10px; }
 
         .checklist { list-style:none; padding:0; }
         .checklist li { padding:5px 0; color:#6a3a4a; }
-        .checklist li:before { content: "☐ "; color:#4682b4; font-weight:bold; }
+        .checklist li:before { content: "☐ "; color:var(--tab-active); font-weight:bold; }
 
-        /* === OVERRIDE: Light Blue & Medium Blue Theme === */
-        :root {
-            --primary-gradient: #f0f8ff;           /* solid light blue background */
-            --tab-active: #4682b4;                 /* medium blue accent */
-            --tab-inactive: #87ceeb;               /* light blue */
-            --step-pink: #5dade2;                  /* medium blue for steps */
-            --step-alt: #85c1e9;                   /* lighter blue alternate */
-            --card-bg: rgba(255,255,255,0.98);
-            --text-primary: #2c3e50;               /* darker blue-gray text */
-            --border-soft: rgba(70,130,180,0.3);   /* medium blue borders */
-        }
-
-        /* Blue theme adjustments */
-        .header { 
-            background: #4682b4 !important;        /* solid medium blue */
-            padding: 28px !important; 
-        }
+        /* === Modern Tan & Black Theme Overrides === */
         .content-file-preview { 
-            background: #f8fcff !important; 
-            border: 2px dashed var(--border-soft) !important; 
+            background: white !important; 
+            border: 2px solid var(--accent-tan) !important; 
             transition: all 0.22s ease !important; 
         }
         .content-file-preview:hover { 
-            border-color: #4682b4 !important; 
-            background: #f0f8ff !important; 
+            border-color: var(--tab-active) !important; 
+            background: var(--light-tan) !important; 
+            transform: translateY(-2px) !important;
         }
         .flowchart-step { 
+            background: var(--step-pink) !important;
             padding: 14px 22px !important; 
             border-radius: 20px !important; 
-            box-shadow: 0 6px 22px rgba(70,130,180,0.25) !important; 
+            box-shadow: 0 6px 22px rgba(44,44,44,0.15) !important; 
         }
-        .evidence-type.scientific { background: #4682b4 !important; }
-        .evidence-type.practitioner { background: #5dade2 !important; }
-        .evidence-type.organizational { background: #87ceeb !important; }
-        .evidence-type.stakeholder { background: #6bb6ff !important; }
+        .evidence-type.scientific { background: #2c2c2c !important; }
+        .evidence-type.practitioner { background: #8b7355 !important; }
+        .evidence-type.organizational { background: #a68b5b !important; }
+        .evidence-type.stakeholder { background: #c8b99c !important; }
         .progress-indicator { 
-            background: #f8fcff !important;        /* solid light blue background */
-            border-bottom: 3px solid var(--border-soft) !important; 
+            background: var(--light-tan) !important; 
+            border-bottom: 3px solid var(--accent-tan) !important; 
         }
-        .tab-nav { 
-            background: #f0f8ff !important;        /* solid light blue background */
-            border-bottom: 3px solid var(--border-soft) !important; 
-        }
-        .btn { 
-            background: #87ceeb !important;        /* solid light blue buttons */
-        }
-        .tab-button:hover { 
-            background: #6bb6ff !important; 
-        }
+        .progress-step.completed { background: var(--step-pink) !important; }
+        .progress-step.active { background: var(--tab-active) !important; }
+        .progress-step.pending { background: var(--accent-tan) !important; color: white !important; }
+        .progress-step.completed::after { border-left-color: var(--step-pink) !important; }
+        .progress-step.active::after { border-left-color: var(--tab-active) !important; }
+        .progress-step.pending::after { border-left-color: var(--accent-tan) !important; }
         .edit-notice { 
-            background: #f0f8ff !important; 
-            border: 1px solid #87ceeb !important; 
-            color: #2c3e50 !important; 
-        }
-        .milestone-tracker { 
-            background: #f8fcff !important; 
-            border-left: 4px solid #4682b4 !important; 
+            background: var(--light-tan) !important; 
+            border: 1px solid var(--accent-tan) !important; 
+            color: var(--text-dark) !important; 
         }
         .evidence-section { 
-            background: #f8fcff !important; 
-            border-left: 5px solid rgba(70,130,180,0.4) !important; 
+            background: white !important; 
+            border-left: 5px solid var(--accent-tan) !important; 
         }
     </style>
 </head>
