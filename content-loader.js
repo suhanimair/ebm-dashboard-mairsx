@@ -52,7 +52,7 @@
                                 loadedFiles.add(filename);
                                 newFilesLoaded++;
                                 
-                                console.log(`✅ Loaded ${filename}`);
+                                console.log(`Loaded ${filename}`);
                             } catch (processingError) {
                                 // Fallback to plain text
                                 pre.textContent = content;
@@ -64,18 +64,18 @@
                                 loadedFiles.add(filename);
                                 newFilesLoaded++;
                                 
-                                console.log(`⚠️ Loaded ${filename} as plain text`);
+                                console.log(`Loaded ${filename} as plain text`);
                             }
                         }
                     } else if (isInitialLoad) {
-                        console.log(`❌ No container found for ${filename}`);
+                        console.log(`No container found for ${filename}`);
                     }
                 } else if (response.status === 404 && isInitialLoad) {
-                    console.log(`📝 File not found: ${filename} (create this file to see content)`);
+                    console.log(`File not found: ${filename} (create this file to see content)`);
                 }
             } catch (error) {
                 if (isInitialLoad) {
-                    console.log(`❌ Network error loading ${filename}:`, error.message);
+                    console.log(`Network error loading ${filename}:`, error.message);
                 }
             }
         }
@@ -84,7 +84,7 @@
         if (loadedFiles.size === contentFiles.length || 
             (isInitialLoad && newFilesLoaded === 0)) {
             clearInterval(intervalId);
-            console.log(`🎉 Content loading complete! Loaded ${loadedFiles.size}/${contentFiles.length} files.`);
+            console.log(`Content loading complete! Loaded ${loadedFiles.size}/${contentFiles.length} files.`);
         }
         
         isInitialLoad = false;
@@ -98,8 +98,8 @@
         allElements.forEach(element => {
             const text = element.textContent || '';
             
-            if ((text.includes(`📝 content/${filename}`) || 
-                 text.includes(`🖊️ Click to edit this file`) ||
+            if ((text.includes(`content/${filename}`) || 
+                 text.includes(`Click to edit this file`) ||
                  (text.includes('📝') && text.includes(filename)) ||
                  (text.includes('🖊️') && text.includes('Click to edit'))) &&
                 !element.querySelector('pre') && 
