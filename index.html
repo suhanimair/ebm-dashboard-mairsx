@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My EBM Dashboard | MGT357 - Fall 2025</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         /* === BLUE THEME CSS === */
         :root {
@@ -26,13 +26,16 @@
         }
 
         body {
-            font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
             background: var(--primary-gradient);
             min-height: 100vh;
             padding: 20px;
             color: var(--text-dark);
             font-weight: 400;
             line-height: 1.6;
+            letter-spacing: 0.5px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
 
         .container {
@@ -42,6 +45,7 @@
             border-radius: var(--border-radius);
             box-shadow: 0 20px 60px rgba(200,80,140,0.08);
             overflow: hidden;
+            word-wrap: break-word;
         }
 
         .header {
@@ -67,14 +71,14 @@
         }
 
         /* Tabs */
-        .tab-nav { display: flex; background: #f0f8ff; border-bottom: 3px solid rgba(70,130,180,0.25); }
-        .tab-button { flex:1; padding:20px; text-align:center; cursor:pointer; background:var(--tab-inactive); color:white; font-weight:bold; font-size:1.1em; transition:all var(--transition-speed); border:none; border-right:2px solid rgba(255,255,255,0.15); }
+        .tab-nav { display: flex; background: #f0f8ff; border-bottom: 3px solid rgba(70,130,180,0.25); flex-wrap: wrap; }
+        .tab-button { flex:1; padding:15px 10px; text-align:center; cursor:pointer; background:var(--tab-inactive); color:white; font-weight:bold; font-size:1em; transition:all var(--transition-speed); border:none; border-right:2px solid rgba(255,255,255,0.15); word-wrap: break-word; overflow-wrap: break-word; min-width: 0; }
         .tab-button:last-child { border-right:none; }
         .tab-button:hover { background:#6bb6ff; transform:translateY(-2px); }
         .tab-button.active { background:var(--tab-active); transform:translateY(-3px); box-shadow:0 5px 15px rgba(70,130,180,0.25); }
 
-        .tab-content { position:relative; min-height:500px; }
-        .tab-panel { display:none; padding:40px; animation:fadeIn 0.3s ease-in; }
+        .tab-content { position:relative; min-height:500px; word-wrap: break-word; overflow-wrap: break-word; }
+        .tab-panel { display:none; padding:40px; animation:fadeIn 0.3s ease-in; word-wrap: break-word; overflow-wrap: break-word; }
         .tab-panel.active { display:block; }
 
         @keyframes fadeIn { from { opacity:0; transform:translateX(20px);} to { opacity:1; transform:translateX(0);} }
