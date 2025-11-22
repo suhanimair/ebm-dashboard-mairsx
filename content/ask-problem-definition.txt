@@ -1,113 +1,208 @@
-**Problem Definition Framework:**
-Within an organization, there are multiple departments with different teams. The problem is how do we improve communication 
-and manage the different communication styles within an organization. Communication is essential for an organization to run smoothly, 
-and is often the most frustrating part when working with people. 
- 
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 8px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-**What outcome do we want to achieve?:**
-Improve communication with different teams in a department to 
-reduce frustration and improve efficiency. 
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 12px 18px; border-radius: 12px; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">📋 Problem & Solution Framework</h1>
+    <p style="margin: 4px 0 0 0; opacity: 0.95; font-size: 1.15em;">Define your management challenge using the PICOC methodology</p>
+</div>
 
-**PICOC Framework:**
+<!-- PICOC Framework Container -->
+<div style="background: white; border-radius: 10px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 10px;">
+    
+    <!-- Population Section -->
+    <div style="margin-bottom: 10px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">👥 Population</h2>
+        </div>
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">🎯 Who is affected?</p>
+            <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Identify the specific group, organization, or stakeholders impacted by this problem.</p>
+        </div>
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">💡 Examples:</p>
+            <ul style="margin: 2px 0 0 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                <li style="margin: 0;">Executive team at Fortune 500 company</li>
+                <li style="margin: 0;">Mid-level managers in healthcare organization</li>
+                <li style="margin: 0;">Employees in a specific department or division</li>
+                <li style="margin: 0;">Customers of a particular service or product</li>
+            </ul>
+        </div>
+    </div>
 
-<table border="1" style="width:100%; border-collapse: collapse; margin: 20px 0;">
-<tr style="background-color: #6B4E3D; color: white;">
-<th style="padding: 12px; text-align: left; font-weight: bold;">PICOC Element</th>
-<th style="padding: 12px; text-align: left; font-weight: bold;">Description</th>
-</tr>
-<tr style="background-color: #f9f9f9;">
-<td style="padding: 12px; vertical-align: top; font-weight: bold; width: 20%;">
-<strong>Population (P)</strong><br>
-<em>Who is affected?</em>
-</td>
-<td style="padding: 12px;">
-Employees within different departments. The main focus are establishing better communication through cross-functional teams in a department.
-</td>
-</tr>
-<tr style="background-color: #ffffff;">
-<td style="padding: 12px; vertical-align: top; font-weight: bold;">
-<strong>Intervention (I)</strong><br>
-<em>What solution are we considering?</em>
-</td>
-<td style="padding: 12px;">
-Introduce and focus on a department-wide communication improvement program that includes:
-<ul style="margin: 8px 0; padding-left: 20px;">
-<li>Training workshops on effective communication and active listening</li>
-<li>Establish common ground through the use of standardized communication tools (ex: Slack, Teams, project management platforms) to reduce misalignment</li>
-<li>Establishing communication norms across departments (ex: frequency of updates, clear expectations on response times, preferred communication channels)</li>
-<li>Encouraging team building exercises to develop a mutual understanding of communication styles across coworkers</li>
-</ul>
-</td>
-</tr>
-<tr style="background-color: #f9f9f9;">
-<td style="padding: 12px; vertical-align: top; font-weight: bold;">
-<strong>Comparison (C)</strong><br>
-<em>What alternatives exist?</em>
-</td>
-<td style="padding: 12px;">
-<ul style="margin: 8px 0; padding-left: 20px;">
-<li><strong>Do nothing:</strong> Allow teams to continue using their own informal communication methods</li>
-<li><strong>Team-specific training:</strong> Each team manages its own communication training without organization-wide standards</li>
-<li><strong>Technology-only solution:</strong> Rely solely on software platforms (ex: Microsoft Teams) without addressing any issues</li>
-<li><strong>External consultants:</strong> Hire communication specialists to facilitate workshops and coach leadership</li>
-</ul>
-</td>
-</tr>
-<tr style="background-color: #ffffff;">
-<td style="padding: 12px; vertical-align: top; font-weight: bold;">
-<strong>Outcomes (O)</strong><br>
-<em>What will success look like?</em>
-</td>
-<td style="padding: 12px;">
-<strong>Quantitative:</strong>
-<ul style="margin: 8px 0; padding-left: 20px;">
-<li>Hoping for 10% reduction in project delays or errors caused by miscommunication (tracked via project management data)</li>
-<li>Hoping for 15% increase in employee satisfaction scores regarding communication (measured in engagement surveys)</li>
-<li>Increased cross-departmental collaboration as tracked by interdepartmental project participation</li>
-</ul>
-<strong>Qualitative:</strong>
-<ul style="margin: 8px 0; padding-left: 20px;">
-<li>Employees report greater clarity and reduced frustration</li>
-<li>Leadership observes smoother coordination across departments</li>
-<li>Fewer complaints from employees and managers during meetings, conversations, etc.</li>
-</ul>
-</td>
-</tr>
-<tr style="background-color: #f9f9f9;">
-<td style="padding: 12px; vertical-align: top; font-weight: bold;">
-<strong>Context (C)</strong><br>
-<em>Where/when does this apply?</em>
-</td>
-<td style="padding: 12px;">
-<ul style="margin: 8px 0; padding-left: 20px;">
-<li><strong>Organizational:</strong> Medium to large organizations with multiple departments and teams that depend on each other</li>
-<li><strong>Geographic:</strong> Can apply to both in-person and hybrid/remote organizations</li>
-<li><strong>Temporal:</strong> Immediate need to address communication challenges, it will take 6-12 months to be put in place and see results</li>
-</ul>
-</td>
-</tr>
-</table> 
+    <!-- Intervention Section -->
+    <div style="margin-bottom: 10px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">🛠️ Intervention</h2>
+        </div>
+        
+        <!-- Intervention Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 6px; margin-bottom: 5px;">
+            
+            <!-- Problem -->
+            <div style="background: #fafaf8; border-left: 4px solid #c8524b; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #c8524b; font-size: 1.1em;">🔴 The Problem</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What specific issue or challenge needs to be addressed?</p>
+            </div>
+            
+            <!-- Root Causes -->
+            <div style="background: #fafaf8; border-left: 4px solid #d4a12a; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #d4a12a; font-size: 1.1em;">🟡 Root Causes</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What are the underlying factors contributing to this problem?</p>
+            </div>
+            
+            <!-- Solution Ideas -->
+            <div style="background: #fafaf8; border-left: 4px solid #e89a3c; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #e89a3c; font-size: 1.1em;">🟠 Solution Ideas</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What management practices or interventions could address this?</p>
+            </div>
+            
+            <!-- Expected Impact -->
+            <div style="background: #fafaf8; border-left: 4px solid #6a9f5b; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #6a9f5b; font-size: 1.1em;">🟢 Expected Impact</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">How will this intervention improve the situation?</p>
+            </div>
+            
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">⚠️ Key Consideration:</p>
+            <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Be specific about the proposed intervention. Vague solutions lead to unclear evidence searches.</p>
+        </div>
+    </div>
 
+    <!-- Comparison Section -->
+    <div style="margin-bottom: 10px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">⚖️ Comparison</h2>
+        </div>
+        
+        <!-- Comparison Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 6px; margin-bottom: 5px;">
+            
+            <!-- Current State -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">📊 Current State (Baseline)</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What is happening now without intervention?</p>
+            </div>
+            
+            <!-- Alternative Solutions -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">💼 Alternative Solutions</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What other approaches could be used instead?</p>
+            </div>
+            
+            <!-- Traditional Practice -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">📚 Traditional Practice</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What is the standard approach in your industry/field?</p>
+            </div>
+            
+            <!-- No Intervention -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">❓ No Intervention</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">What happens if we do nothing?</p>
+            </div>
+            
+        </div>
+    </div>
 
-**Why This Problem Matters?**
+    <!-- Outcomes Section -->
+    <div style="margin-bottom: 10px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">📈 Outcomes</h2>
+        </div>
+        
+        <!-- Outcomes Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 6px; margin-bottom: 5px;">
+            
+            <!-- Quantitative Outcomes -->
+            <div style="background: #fafaf8; border-left: 4px solid #6a9f5b; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">📊 Quantitative Outcomes</p>
+                <p style="margin: 2px 0 3px 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Measurable, numeric results:</p>
+                <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Financial metrics (ROI, revenue, costs)</li>
+                    <li style="margin: 0;">Performance indicators (KPIs)</li>
+                    <li style="margin: 0;">Time metrics (efficiency, speed)</li>
+                    <li style="margin: 0;">Productivity measures</li>
+                </ul>
+            </div>
+            
+            <!-- Qualitative Outcomes -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">💬 Qualitative Outcomes</p>
+                <p style="margin: 2px 0 3px 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Non-numeric, descriptive results:</p>
+                <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Employee satisfaction/engagement</li>
+                    <li style="margin: 0;">Organizational culture changes</li>
+                    <li style="margin: 0;">Stakeholder perceptions</li>
+                    <li style="margin: 0;">Work quality improvements</li>
+                </ul>
+            </div>
+            
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">✅ Success Criteria:</p>
+            <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Define both short-term and long-term outcomes. What would make this intervention a clear success?</p>
+        </div>
+    </div>
 
-**Impact on Organization**
-1. Reduced efficiency and productivity from unclear expectations.
-2. Delays in project timelines and potential financial losses.
-3. Risk of lower employee engagement and higher turnover if frustrations persist.
-4. Unhappy coworkers causing the atmosphere to be negative.
+    <!-- Context Section -->
+    <div style="margin-bottom: 0;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">🌍 Context</h2>
+        </div>
+        
+        <!-- Context Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 6px; margin-bottom: 5px;">
+            
+            <!-- Organizational -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">🏢 Organizational Context</p>
+                <ul style="margin: 2px 0 0 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Industry/sector</li>
+                    <li style="margin: 0;">Organization size</li>
+                    <li style="margin: 0;">Company culture</li>
+                    <li style="margin: 0;">Resources available</li>
+                </ul>
+            </div>
+            
+            <!-- Geographic -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">📍 Geographic Context</p>
+                <ul style="margin: 2px 0 0 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Location/region</li>
+                    <li style="margin: 0;">Market conditions</li>
+                    <li style="margin: 0;">Regulatory environment</li>
+                    <li style="margin: 0;">Cultural factors</li>
+                </ul>
+            </div>
+            
+            <!-- Temporal -->
+            <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px;">
+                <p style="margin: 0 0 2px 0; font-weight: 600; color: #4A3429; font-size: 1.1em;">⏰ Temporal Context</p>
+                <ul style="margin: 2px 0 0 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Timeframe for implementation</li>
+                    <li style="margin: 0;">Current business cycle</li>
+                    <li style="margin: 0;">Urgency level</li>
+                    <li style="margin: 0;">Historical context</li>
+                </ul>
+            </div>
+            
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">🚀 Why Context Matters:</p>
+            <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Solutions that work in one context may fail in another. Understanding your unique situation helps identify relevant evidence and adapt practices appropriately.</p>
+        </div>
+    </div>
 
-**Stakeholder Impact**
-1. Employees: Frustrated by miscommunication and wasted effort.
-2. Managers: Struggle to align team priorities and ensure accountability.
-3. Clients/Customers: May experience delays or inconsistent service due to poor internal coordination.
+</div>
 
-**Strategic Alignment**
-1. Strong communication supports organizational goals of efficiency, innovation, and collaboration.
-2. Improves employee satisfaction, aligning with retention and culture building strategies.
-3. Enhances client satisfaction by ensuring smoother delivery of services.
+<!-- Additional Resources -->
+<div style="background: linear-gradient(135deg, #4A3429 0%, #2c2c2c 100%); color: white; padding: 10px 15px; border-radius: 10px; margin-top: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin: 0 0 5px 0; font-size: 1.45em; font-weight: 600;">�� Next Steps</h3>
+    <p style="margin: 0; line-height: 1.5; opacity: 0.95; font-size: 1.05em;">Once you've defined your problem using PICOC, move to <strong>Stakeholder Analysis</strong> to identify who will be affected by and can influence your intervention, then define <strong>Success Criteria</strong> to establish how you'll measure outcomes.</p>
+</div>
 
-**Evidence Questions to Explore For the Problem**
-What evidence shows miscommunication is a recurring issue (ex: project delays, survey results)?
-How widespread is the problem across departments?
-What are the root causes: technology gaps, lack of training, cultural differences, unclear expectations?
+</div>

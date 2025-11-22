@@ -1,47 +1,210 @@
-# Stakeholder Analysis
-# Identify and analyze all parties affected by your problem and solution
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 8px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Internal Stakeholders:
-**Management: High Influence, Likely Supporter**
-- **Interest in Problem:** Miscommunication across departments makes it harder for leadership to align strategy, meet deadlines, and hit performance 
-    targets. It also increases frustration when managers have to resolve conflicts or clarify tasks repeatedly.
-- **Interest in Solution:** Leadership would gain smoother operations, fewer bottlenecks, improved employee morale, and better achievement of 
-    organizational goals. Stronger communication also reflects positively on leadership effectiveness.
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 12px 18px; border-radius: 12px; margin-bottom: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">👥 Stakeholder Analysis</h1>
+    <p style="margin: 4px 0 0 0; opacity: 0.95; font-size: 1.15em;">Identify and analyze all parties affected by your problem and solution</p>
+</div>
 
-**Employees/Staff: Medium Influence, Likely Supporter**
-- **Interest in Problem:** Miscommunication leads to unclear instructions, duplicated work, frustration, and unnecessary stress. It can also cause 
-    tension between teams when expectations aren't aligned.
-- **Interest in Solution:** Employees would gain clearer direction, reduced stress, fewer conflicts, and more efficient workflows. They'd also feel 
-    more valued if their communication styles are recognized and respected. Potential downside: they may feel burdened by "extra" training or new 
-    tools at first.
+<!-- Main Container -->
+<div style="background: white; border-radius: 10px; padding: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 10px;">
+    
+    <!-- Internal Stakeholders Section -->
+    <div style="margin-bottom: 10px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">Internal Stakeholders</h2>
+        </div>
+        
+        <!-- Management -->
+        <div style="background: #fafaf8; border-left: 4px solid #6a9f5b; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                <h3 style="margin: 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Management</h3>
+                <span style="background: linear-gradient(135deg, #6a9f5b, #5a8f4b); color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.95em; font-weight: 600;">High Influence · Likely Supporter</span>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #c8524b; font-weight: 600; font-size: 1.1em;">Interest in Problem:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Miscommunication across departments makes it harder for leadership to align strategy, meet deadlines, and hit performance targets. It also increases frustration when managers have to resolve conflicts or clarify tasks repeatedly.</p>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #6a9f5b; font-weight: 600; font-size: 1.1em;">Interest in Solution:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Leadership would gain smoother operations, fewer bottlenecks, improved employee morale, and better achievement of organizational goals. Stronger communication also reflects positively on leadership effectiveness.</p>
+            </div>
+        </div>
+        
+        <!-- Employees -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                <h3 style="margin: 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Employees</h3>
+                <span style="background: linear-gradient(135deg, #8b7355, #a68b5b); color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.95em; font-weight: 600;">Medium Influence · Key Users</span>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #c8524b; font-weight: 600; font-size: 1.1em;">Interest in Problem:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Poor communication causes daily frustration, unclear expectations, duplicate work, and stress. Employees waste time seeking clarification and dealing with mixed messages from different departments.</p>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #6a9f5b; font-weight: 600; font-size: 1.1em;">Interest in Solution:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Employees would experience clearer expectations, reduced frustration, better work-life balance, and increased job satisfaction through improved cross-departmental collaboration.</p>
+            </div>
+        </div>
+        
+        <!-- Team Leads -->
+        <div style="background: #fafaf8; border-left: 4px solid #d4a12a; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                <h3 style="margin: 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Team Leads</h3>
+                <span style="background: linear-gradient(135deg, #d4a12a, #c49120); color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.95em; font-weight: 600;">High Influence · Critical Champions</span>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #c8524b; font-weight: 600; font-size: 1.1em;">Interest in Problem:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Team leads spend excessive time mediating conflicts, clarifying messages, and coordinating between departments. This reduces time for strategic work and team development.</p>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #6a9f5b; font-weight: 600; font-size: 1.1em;">Interest in Solution:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Improved communication would free up time for leadership activities, reduce team stress, improve project coordination, and strengthen their ability to deliver results.</p>
+            </div>
+        </div>
+        
+        <!-- HR Department -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                <h3 style="margin: 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">HR Department</h3>
+                <span style="background: linear-gradient(135deg, #8b7355, #a68b5b); color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.95em; font-weight: 600;">Medium Influence · Implementation Partner</span>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #c8524b; font-weight: 600; font-size: 1.1em;">Interest in Problem:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">HR deals with employee complaints about poor communication, coordinates training programs, and manages the impact on morale and retention.</p>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #6a9f5b; font-weight: 600; font-size: 1.1em;">Interest in Solution:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Better communication reduces HR workload, improves employee satisfaction scores, decreases turnover, and strengthens organizational culture.</p>
+            </div>
+        </div>
+    </div>
 
-## External Stakeholders
-**Customers/Clients:** Medium Influence, Likely Supporter 
-- **Interest in Problem:** Poor internal communication can cause delays, inconsistent information, and errors that directly affect service quality and 
-  customer satisfaction. Clients may become frustrated if different departments provide conflicting answers.
-- **Interest in Solution:** Customers would gain smoother, faster, and more reliable service. They would experience fewer errors, better consistency, 
-   and stronger trust in the organization. There’s little downside for them.
+    <!-- External Stakeholders Section -->
+    <div style="margin-bottom: 10px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">External Stakeholders</h2>
+        </div>
+        
+        <!-- Customers/Clients -->
+        <div style="background: #fafaf8; border-left: 4px solid #6a9f5b; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                <h3 style="margin: 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Customers/Clients</h3>
+                <span style="background: linear-gradient(135deg, #6a9f5b, #5a8f4b); color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.95em; font-weight: 600;">Low Influence · High Impact</span>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #c8524b; font-weight: 600; font-size: 1.1em;">Interest in Problem:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Poor internal communication can cause delays, inconsistent information, and errors that directly affect service quality and customer satisfaction. Clients may become frustrated if different departments provide conflicting answers.</p>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #6a9f5b; font-weight: 600; font-size: 1.1em;">Interest in Solution:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Customers would gain smoother, faster, and more reliable service. They would experience fewer errors, better consistency, and stronger trust in the organization. There's little downside for them.</p>
+            </div>
+        </div>
+        
+        <!-- Suppliers -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 5px;">
+                <h3 style="margin: 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Suppliers</h3>
+                <span style="background: linear-gradient(135deg, #8b7355, #a68b5b); color: white; padding: 4px 10px; border-radius: 15px; font-size: 0.95em; font-weight: 600;">Low Influence · Indirect Impact</span>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #c8524b; font-weight: 600; font-size: 1.1em;">Interest in Problem:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Communication breakdowns can lead to unclear orders, changed requirements, payment delays, or conflicting information about specifications and timelines.</p>
+            </div>
+            
+            <div style="background: white; padding: 8px; border-radius: 6px; margin: 3px 0;">
+                <p style="margin: 0 0 2px 0; color: #6a9f5b; font-weight: 600; font-size: 1.1em;">Interest in Solution:</p>
+                <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Better internal communication results in clearer purchase orders, timely payments, consistent requirements, and stronger long-term partnerships.</p>
+            </div>
+        </div>
+    </div>
 
-**Suppliers:** Medium Influence, Likely Supporter
-- **Interest in Problem:** Miscommunication within the company can create inconsistent or unclear orders, delayed payments and onboarding, and 
-  last-minute changes. This makes it harder for suppliers to plan production, manage inventory, and meet delivery deadlines.
-- **Interest in Solution:** Suppliers would benefit from clearer and timelier communication about requirements, schedules, and payments. This 
-  builds stronger partnerships, reduces costly errors, and improves trust. The only potential downside might be adjusting to new communication 
-  platforms or processes.
+    <!-- Engagement Strategy Section -->
+    <div style="margin-bottom: 0;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 8px; margin-bottom: 5px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">Stakeholder Engagement Strategy</h2>
+        </div>
+        
+        <!-- Who to Engage -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 3px 0; color: #4A3429; font-weight: 600; font-size: 1.2em;">Who to Interview/Survey:</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 5px;">
+                <span style="background: linear-gradient(135deg, #c8b99c, #d4c4a8); color: #2c2c2c; padding: 6px 12px; border-radius: 20px; font-size: 1.05em; font-weight: 500;">Managers</span>
+                <span style="background: linear-gradient(135deg, #c8b99c, #d4c4a8); color: #2c2c2c; padding: 6px 12px; border-radius: 20px; font-size: 1.05em; font-weight: 500;">Team Leads</span>
+                <span style="background: linear-gradient(135deg, #c8b99c, #d4c4a8); color: #2c2c2c; padding: 6px 12px; border-radius: 20px; font-size: 1.05em; font-weight: 500;">Employees</span>
+                <span style="background: linear-gradient(135deg, #c8b99c, #d4c4a8); color: #2c2c2c; padding: 6px 12px; border-radius: 20px; font-size: 1.05em; font-weight: 500;">Customers</span>
+                <span style="background: linear-gradient(135deg, #c8b99c, #d4c4a8); color: #2c2c2c; padding: 6px 12px; border-radius: 20px; font-size: 1.05em; font-weight: 500;">HR</span>
+                <span style="background: linear-gradient(135deg, #c8b99c, #d4c4a8); color: #2c2c2c; padding: 6px 12px; border-radius: 20px; font-size: 1.05em; font-weight: 500;">Suppliers</span>
+            </div>
+        </div>
+        
+        <!-- Key Questions -->
+        <div style="background: #fafaf8; border-left: 4px solid #d4a12a; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 5px 0; color: #4A3429; font-weight: 600; font-size: 1.2em;">Key Questions to Ask:</p>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 6px;">
+                <div style="background: white; padding: 8px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;"><strong>1.</strong> How does miscommunication impact achieving strategic goals?</p>
+                </div>
+                <div style="background: white; padding: 8px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;"><strong>2.</strong> What resources would you be willing to invest in improving communication?</p>
+                </div>
+                <div style="background: white; padding: 8px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;"><strong>3.</strong> How often do miscommunications cause project delays or errors?</p>
+                </div>
+                <div style="background: white; padding: 8px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;"><strong>4.</strong> Where do you experience the most breakdowns in communication?</p>
+                </div>
+                <div style="background: white; padding: 8px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;"><strong>5.</strong> How does unclear communication affect your daily work and stress levels?</p>
+                </div>
+                <div style="background: white; padding: 8px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;"><strong>6.</strong> Have you ever received conflicting or delayed information?</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Engagement Methods -->
+        <div style="background: #fafaf8; border-left: 4px solid #6a9f5b; padding: 10px; border-radius: 6px; margin: 3px 0;">
+            <p style="margin: 0 0 5px 0; color: #4A3429; font-weight: 600; font-size: 1.2em;">How to Engage:</p>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 6px;">
+                <div style="background: white; padding: 10px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 3px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Surveys</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Anonymous online surveys for employees and customers to gather broad data.</p>
+                </div>
+                <div style="background: white; padding: 10px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 3px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">One-on-One Interviews</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">With senior management, key clients, and strategic suppliers.</p>
+                </div>
+                <div style="background: white; padding: 10px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 3px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Observation/Shadowing</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Watch cross-departmental meetings or project handoffs to identify real-time communication gaps.</p>
+                </div>
+                <div style="background: white; padding: 10px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 3px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Feedback Loops</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">Ongoing input via suggestion boxes, digital feedback forms, or quick pulse surveys to track progress over time.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-## Key Stakeholder Insights for Evidence Collection
-**Who to Interview/Survey:** Managers, Team Leads, Employees, Customers, HR
+</div>
 
-**What Questions to Ask**
-1. How does miscommunication impact achieving strategic goals?
-2. What resources would you be willing to invest in improving communication?
-3. How often do miscommunications cause project delays or errors?
-4. Where do you experience the most breakdowns in communication?
-5. How does unclear communication affect your daily work and stress levels?
-6. Have you ever received conflicting or delayed information?
+<!-- Next Steps -->
+<div style="background: linear-gradient(135deg, #4A3429 0%, #2c2c2c 100%); color: white; padding: 10px 15px; border-radius: 10px; margin-top: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin: 0 0 5px 0; font-size: 1.45em; font-weight: 600;">Next Steps</h3>
+    <p style="margin: 0; line-height: 1.5; opacity: 0.95; font-size: 1.05em;">After identifying your stakeholders, move to <strong>Success Criteria</strong> to define measurable outcomes, then proceed to the <strong>Evidence Hub</strong> to gather scientific, practitioner, organizational, and stakeholder evidence.</p>
+</div>
 
-**How to Engage**
-1. Surveys: Anonymous online surveys for employees and customers to gather broad data.
-2. One-on-One Interviews: With senior management, key clients, and strategic suppliers.
-3. Observation/Shadowing: Watch cross-departmental meetings or project handoffs to identify real-time communication gaps. 
-4. Feedback Loops: Ongoing input via suggestion boxes, digital feedback forms, or quick pulse surveys to track progress over time.
+</div>

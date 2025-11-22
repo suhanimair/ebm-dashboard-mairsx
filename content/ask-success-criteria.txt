@@ -1,62 +1,208 @@
-# Success Criteria Definition
-# Define specific, measurable criteria to evaluate solution effectiveness
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 5px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## SMART Success Criteria
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 8px 12px; border-radius: 10px; margin-bottom: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Success Criteria Definition</h1>
+    <p style="margin: 2px 0 0 0; opacity: 0.95; font-size: 1.15em;">Define specific, measurable criteria to evaluate solution effectiveness</p>
+</div>
 
-**Criterion 1: Primary Outcome**
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 10px; padding: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-bottom: 6px;">
+    
+    <!-- SMART Criteria Section -->
+    <div style="margin-bottom: 6px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 3px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">SMART Success Criteria</h2>
+        </div>
+        
+        <!-- SMART Breakdown -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 6px; border-radius: 6px; margin: 2px 0;">
+            <h3 style="margin: 0 0 3px 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Primary Outcome: Improved Cross-Departmental Communication</h3>
+            
+            <div style="background: #f5ebe0; padding: 5px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">S - Specific</p>
+                <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Measure the frequency of project delays, mistakes, complaints, employee satisfaction with communication, and the number of cross-departmental miscommunication incidents.</p>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 5px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">M - Measurable</p>
+                <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Reduce communication-related project delays by 10%</li>
+                    <li style="margin: 0;">Increase employee satisfaction with communication by 15% (via surveys)</li>
+                    <li style="margin: 0;">Track a reduction in reported miscommunication incidents in HR/project management systems</li>
+                </ul>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 5px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">A - Achievable</p>
+                <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Yes, with targeted training, standardized tools, and leadership support, these goals are realistic within existing resources.</p>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 5px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">R - Relevant</p>
+                <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Yes, stronger communication directly addresses the core problem of inefficiency and frustration, improving collaboration and aligning with organizational goals.</p>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 5px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">T - Time-bound</p>
+                <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Within 6–12 months of program rollout, progress will be measured, with quarterly check-ins to monitor improvements.</p>
+            </div>
+        </div>
+    </div>
 
-**Specific:** Measure the frequency of project delays, mistakes, complaints, employee satisfaction with communication, and the number of 
-  cross-departmental miscommunication incidents.
-**Measurable:** 
-1. Reduce communication-related project delays by 10%.
-2. Increase employee satisfaction with communication by 15% (via surveys).
-3. Track a reduction in reported miscommunication incidents in HR/project management systems.
-**Achievable:** Yes, with targeted training, standardized tools, and leadership support, these goals are realistic within existing resources.
-**Relevant:** Yes, stronger communication directly addresses the core problem of inefficiency and frustration, improving collaboration and aligning 
-with organizational goals.
-**Time-bound:** Within 6–12 months of program rollout, progress will be measured, with quarterly check-ins to monitor improvements.
+    <!-- Measurement Framework Section -->
+    <div style="margin-bottom: 6px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 3px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">Measurement Framework</h2>
+        </div>
+        
+        <!-- Quantitative Metrics -->
+        <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 6px; border-radius: 6px; margin: 2px 0;">
+            <h3 style="margin: 0 0 3px 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Quantitative Metrics</h3>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 4px;">
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Complaint Reduction</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Reduce internal communication-related complaints by <strong>30% within 12 months</strong> (tracked through HR logs, helpdesk tickets, complaints during meetings)</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Time Savings</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Achieve an average <strong>15% reduction</strong> in time spent clarifying/re-explaining tasks (measured via project management tool data or employee time surveys)</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Quality Improvement</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Improve project/task accuracy and reduce rework errors by <strong>20%</strong> (tracked through QA reports or manager feedback)</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Customer Satisfaction</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Increase customer satisfaction ratings related to clarity/reliability of service to at least <strong>90% positive</strong> on post-service surveys</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Employee Engagement</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Raise employee engagement survey scores on communication-related questions by <strong>15%</strong> compared to the previous year</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Qualitative Indicators -->
+        <div style="background: #fafaf8; border-left: 4px solid #a68b5b; padding: 6px; border-radius: 6px; margin: 2px 0;">
+            <h3 style="margin: 0 0 3px 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Qualitative Indicators</h3>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 4px;">
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;"><strong>1.</strong> Employees report less frustration and greater clarity in day-to-day tasks</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;"><strong>2.</strong> Teams demonstrate more collaboration and willingness to share information across departments</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;"><strong>3.</strong> Managers observe fewer conflicts or misunderstandings during meetings and project handoffs</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-## Measurement Framework
+    <!-- Risk Indicators Section -->
+    <div style="margin-bottom: 6px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 3px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">Risk Indicators & Warning Signs</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #4A3429; padding: 6px; border-radius: 6px; margin: 2px 0;">
+            <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; margin: 0 0 4px 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.2em;">Failure Indicators</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Metrics suggesting the solution is failing would include persistent or increasing project delays, frequent errors because of miscommunication, and increasing complaints.</p>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; margin: 0 0 4px 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.2em;">Red Flags to Monitor</p>
+                <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                    <li style="margin: 0;">Teams bypassing new communication tools</li>
+                    <li style="margin: 0;">Low participation from employees in training programs</li>
+                    <li style="margin: 0;">Repeated misunderstandings in cross-departmental projects</li>
+                </ul>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; margin: 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.2em;">Mitigation Triggers</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Any negative trends in these metrics for more than one quarter, indicating that the company-wide trainings are not working and need adjustment. The solution's effectiveness should be assessed continuously, with a formal evaluation at the end of every month until the 12th month to determine whether communication improvements have been realized or if additional interventions are required.</p>
+            </div>
+        </div>
+    </div>
 
-**Quantitative Metrics**
+    <!-- Reporting Framework Section -->
+    <div style="margin-bottom: 0;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 3px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">Reporting Framework</h2>
+        </div>
+        
+        <!-- Stakeholder Communication -->
+        <div style="background: #fafaf8; border-left: 4px solid #c8b99c; padding: 6px; border-radius: 6px; margin: 2px 0;">
+            <h3 style="margin: 0 0 3px 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Stakeholder Communication Strategy</h3>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 4px; margin-bottom: 4px;">
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Senior Management</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Executive summaries highlighting key trends, successes, and areas needing attention</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Employees & Teams</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Regular updates on improvements, tips for effective communication, and recognition of progress</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Customers & Suppliers</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Informed indirectly through service updates or improved responsiveness</p>
+                </div>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 5px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;"><strong>Key Principle:</strong> Communication will be transparent, consistent, and tailored to each stakeholder group to ensure accountability and engagement throughout the intervention.</p>
+            </div>
+        </div>
+        
+        <!-- Reporting Schedule -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 6px; border-radius: 6px; margin: 2px 0;">
+            <h3 style="margin: 0 0 3px 0; color: #2c2c2c; font-size: 1.3em; font-weight: 600;">Reporting Schedule</h3>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 4px;">
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Regular Reports</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Track number of delays, issues, mistakes, and complaints on an ongoing basis</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Bi-Weekly Check-ins</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Emails asking for concerns or questions after training programs and establishing common ground department-wide</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 6px; border-radius: 6px;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Monthly Formal Assessments</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">Surveys, feedback forms, observations, and reports to managers for 12 months</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-- Number of Complaints: Reduce internal communication-related complaints by 30% within 12 months (tracked through HR logs, helpdesk tickets, or 
-  complaints to one another or during meetings)
-- Time savings: Achieve an average 15% reduction in time spent clarifying/re-explaining tasks (measured via project management tool data or employee 
-  time surveys).
-- Quality improvement: Improve project/task accuracy and reduce rework errors by 20% (tracked through QA reports or manager feedback).
-- Customer satisfaction: Increase customer satisfaction ratings related to clarity/reliability of service to at least 90% positive on post-service 
-  surveys.
-- Employee engagement: Raise employee engagement survey scores on communication-related questions by 15% compared to the previous year.
+</div>
 
-**Qualitative Indicators**
-1. Employees report less frustration and greater clarity in day-to-day tasks.
-2. Teams demonstrate more collaboration and willingness to share information across departments.
-3. Managers observe fewer conflicts or misunderstandings during meetings and project handoffs.
+<!-- Best Practices -->
+<div style="background: linear-gradient(135deg, #4A3429 0%, #2c2c2c 100%); color: white; padding: 8px 12px; border-radius: 10px; margin-top: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin: 0 0 3px 0; font-size: 1.45em; font-weight: 600;">Best Practices for Success Criteria</h3>
+    <ul style="margin: 3px 0 0 0; padding-left: 20px; line-height: 1.5; opacity: 0.95; font-size: 1.05em;">
+        <li style="margin: 0;">Be specific and measurable - avoid vague terms like "better" or "improved"</li>
+        <li style="margin: 0;">Ensure criteria are achievable given your resources and timeline</li>
+        <li style="margin: 0;">Include both quantitative and qualitative measures</li>
+        <li style="margin: 0;">Consider different stakeholder perspectives on success</li>
+        <li style="margin: 0;">Plan how you'll actually collect the measurement data</li>
+    </ul>
+</div>
 
-
-## Risk Indicators
-Metrics suggesting the solution is failing would include persistent or increasing project delays, frequent errors because of miscommunication, 
-and increasing complaints. Red flags to monitor include teams bypassing new communication tools, low participation from employees, and 
-repeated misunderstandings in cross-departmental projects. Mitigation triggers would be any  negative trends in these metrics for more than 
-one quarter, indicating that the company wide trainings are not working and needs adjustment. The solution’s effectiveness should be assessed 
-continuously, with a formal evaluation at the end of every month until the 12th month to determine whether communication improvements have been 
-realized or if additional interventions are required.
-
-## Reporting Framework
-Progress will be communicated to stakeholders through a combination of visual dashboards, periodic reports, and structured meetings. Senior management 
-will receive executive summaries highlighting key trends, successes, and areas needing attention, while employees and teams will get regular updates on 
-improvements, tips for effective communication, and recognition of progress. Customers and suppliers may be informed of changes indirectly through 
-service updates or improved responsiveness. Communication will be transparent, consistent, and tailored to each stakeholder group to ensure 
-accountability and engagement throughout the intervention. Regular reports will consist of number of delays, issues, mistakes, and complaints
-Formal assesments will occur at the end of each month for 12 months but check-ins will occur every two weeks. Formal assessments will include surveys, 
-feedback forms, observations, reports to managers. Check ins will consist of emails being sent out asking for any concerns or questions after a 
-training program and estalbishing a common ground department wide. 
-
----
-INSTRUCTIONS:
-1. Be specific and measurable - avoid vague terms like "better" or "improved"
-2. Ensure criteria are achievable given your resources and timeline
-3. Include both quantitative and qualitative measures
-4. Consider different stakeholder perspectives on success
-5. Plan how you'll actually collect the measurement data
+</div>

@@ -1,191 +1,273 @@
-# Stakeholder Evidence: Methods & Engagement Strategy
-# Document your approach to gathering stakeholder perspectives and feedback
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Stakeholder Evidence Goals
-**Primary Goal:** [What stakeholder insights do you need about your problem?]
-**Secondary Goal:** [What stakeholder feedback do you need about potential solutions?]
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Stakeholder Evidence: Methods</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Document approach to gathering stakeholder perspectives and feedback</p>
+</div>
 
-## Target Stakeholder Groups
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    
+    <!-- ACQUIRE Section -->
+    <div style="margin-bottom: 2px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">ACQUIRE: Stakeholder Data Collection Strategy</h2>
+        </div>
+        
+        <!-- Stakeholder Map -->
+        <div style="margin-bottom: 4px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">✅ Stakeholder Map: Internal/External × Primary/Secondary</h3>
+            </div>
+            
+            <div style="background: #fafaf8; padding: 4px; border-radius: 6px; margin: 1px 0;">
+                <!-- Map Grid -->
+                <div style="display: grid; grid-template-columns: auto 1fr 1fr; gap: 2px; margin: 2px 0;">
+                    <!-- Header Row -->
+                    <div style="background: #6B4E3D; color: white; padding: 4px; text-align: center; font-weight: 600; border-radius: 4px;"></div>
+                    <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px; text-align: center; font-weight: 600; border-radius: 4px; font-size: 1.1em;">INTERNAL STAKEHOLDERS</div>
+                    <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px; text-align: center; font-weight: 600; border-radius: 4px; font-size: 1.1em;">EXTERNAL STAKEHOLDERS</div>
+                    
+                    <!-- PRIMARY Row -->
+                    <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px; text-align: center; font-weight: 600; border-radius: 4px; font-size: 1.1em; writing-mode: vertical-rl; transform: rotate(180deg);">PRIMARY</div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border: 2px solid #6B4E3D;">
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">🎯 Directly Affected by Problem</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;"><strong>Team Members</strong> - Experience communication delays, duplicated work</li>
+                            <li style="margin: 0;"><strong>Project Managers</strong> - Deal with timeline extensions, resource conflicts</li>
+                            <li style="margin: 0;"><strong>Department Heads</strong> - Responsible for productivity metrics</li>
+                            <li style="margin: 0;"><strong>Cross-Functional Teams</strong> - Primary users of communication systems</li>
+                        </ul>
+                    </div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border: 2px solid #8b7355;">
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">🎯 Directly Affected by Problem</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;"><strong>Clients/Customers</strong> - Experience delayed project delivery, service quality issues</li>
+                            <li style="margin: 0;"><strong>Financial Partners</strong> - Concerned about productivity decline, ROI</li>
+                            <li style="margin: 0;"><strong>Regulators</strong> - Monitor compliance timelines, reporting accuracy</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- SECONDARY Row -->
+                    <div style="background: linear-gradient(135deg, #c8b99c 0%, #d4c4a8 100%); color: #4A3429; padding: 4px; text-align: center; font-weight: 600; border-radius: 4px; font-size: 1.1em; writing-mode: vertical-rl; transform: rotate(180deg);">SECONDARY</div>
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border: 2px solid #a68b5b;">
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">📋 Indirectly Affected/Interested</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;"><strong>HR Department</strong> - Employee satisfaction, retention concerns</li>
+                            <li style="margin: 0;"><strong>IT Department</strong> - Support communication tools, infrastructure</li>
+                            <li style="margin: 0;"><strong>Finance/Accounting</strong> - Track labor costs, budget impact</li>
+                            <li style="margin: 0;"><strong>Executive Leadership</strong> - Oversee overall organizational performance</li>
+                        </ul>
+                    </div>
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border: 2px solid #c8b99c;">
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">📋 Indirectly Affected/Interested</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;"><strong>Industry Analysts</strong> - Monitor financial services productivity trends</li>
+                            <li style="margin: 0;"><strong>Competitors</strong> - Watch for organizational performance shifts</li>
+                            <li style="margin: 0;"><strong>Technology Vendors</strong> - Opportunity for collaboration tool sales</li>
+                            <li style="margin: 0;"><strong>Trade Associations</strong> - Industry best practice development</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 2px 0; border-left: 3px solid #6B4E3D;">
+                    <p style="margin: 0; color: #4A3429; line-height: 1.3; font-size: 1.05em;"><strong>Total Stakeholders Identified:</strong> 15 groups across 4 categories (Primary Internal: 4, Primary External: 3, Secondary Internal: 4, Secondary External: 4)</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Power/Interest Diagram -->
+        <div style="margin-bottom: 4px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">✅ Power/Interest Diagram: Stakeholder Prioritization</h3>
+            </div>
+            
+            <div style="background: #fafaf8; padding: 4px; border-radius: 6px; margin: 1px 0;">
+                <!-- Power Interest Matrix -->
+                <div style="position: relative; background: white; padding: 10px; border-radius: 6px; min-height: 400px;">
+                    <!-- Axis Labels -->
+                    <div style="position: absolute; top: 50%; left: -30px; transform: rotate(-90deg); font-weight: 700; color: #4A3429; font-size: 1.15em; white-space: nowrap;">← POWER (Influence) →</div>
+                    <div style="text-align: center; font-weight: 700; color: #4A3429; font-size: 1.15em; margin-bottom: 4px;">← INTEREST (Affected by Problem) →</div>
+                    
+                    <!-- Grid -->
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 3px; min-height: 360px;">
+                        <!-- HIGH POWER, LOW INTEREST (Keep Satisfied) -->
+                        <div style="background: linear-gradient(135deg, #e8dcc8 0%, #f5ebe0 100%); padding: 4px; border-radius: 4px; border: 2px solid #c8b99c;">
+                            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em; text-align: center; background: #d4c4a8; padding: 2px; border-radius: 3px;">⚡ KEEP SATISFIED</p>
+                            <p style="margin: 0 0 2px 0; color: #6B4E3D; font-size: 0.95em; font-style: italic;">High Power, Low Interest</p>
+                            <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                                <li style="margin: 0;"><strong>Executive Leadership</strong> - High authority but focused on strategic issues</li>
+                                <li style="margin: 0;"><strong>Finance/Accounting</strong> - Budget control but not day-to-day affected</li>
+                                <li style="margin: 0;"><strong>Regulators</strong> - Enforcement power but indirect concern</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- HIGH POWER, HIGH INTEREST (Manage Closely) -->
+                        <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); padding: 4px; border-radius: 4px; border: 3px solid #6B4E3D;">
+                            <p style="margin: 0 0 2px 0; color: white; font-weight: 700; font-size: 1.1em; text-align: center; background: #6B4E3D; padding: 2px; border-radius: 3px;">🎯 MANAGE CLOSELY</p>
+                            <p style="margin: 0 0 2px 0; color: #4A3429; font-size: 0.95em; font-style: italic;">High Power, High Interest</p>
+                            <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                                <li style="margin: 0;"><strong>Department Heads</strong> - Accountable for team productivity, resource allocation authority</li>
+                                <li style="margin: 0;"><strong>Project Managers</strong> - Control workflows, directly impacted by delays</li>
+                                <li style="margin: 0;"><strong>Clients/Customers</strong> - Revenue source, experience service quality issues</li>
+                                <li style="margin: 0;"><strong>Financial Partners</strong> - Investment decisions based on performance</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- LOW POWER, LOW INTEREST (Monitor) -->
+                        <div style="background: linear-gradient(135deg, #fafaf8 0%, #f5ebe0 100%); padding: 4px; border-radius: 4px; border: 2px solid #d4c4a8;">
+                            <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em; text-align: center; background: #e8dcc8; padding: 2px; border-radius: 3px;">👁️ MONITOR</p>
+                            <p style="margin: 0 0 2px 0; color: #6B4E3D; font-size: 0.95em; font-style: italic;">Low Power, Low Interest</p>
+                            <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                                <li style="margin: 0;"><strong>Industry Analysts</strong> - Observe trends, limited direct influence</li>
+                                <li style="margin: 0;"><strong>Competitors</strong> - Watching from sidelines</li>
+                                <li style="margin: 0;"><strong>Technology Vendors</strong> - Sales opportunity but no decision power</li>
+                                <li style="margin: 0;"><strong>Trade Associations</strong> - General industry interest</li>
+                            </ul>
+                        </div>
+                        
+                        <!-- LOW POWER, HIGH INTEREST (Keep Informed) -->
+                        <div style="background: linear-gradient(135deg, #c8b99c 0%, #d4c4a8 100%); padding: 4px; border-radius: 4px; border: 2px solid #8b7355;">
+                            <p style="margin: 0 0 2px 0; color: white; font-weight: 600; font-size: 1.05em; text-align: center; background: #8b7355; padding: 2px; border-radius: 3px;">📢 KEEP INFORMED</p>
+                            <p style="margin: 0 0 2px 0; color: #4A3429; font-size: 0.95em; font-style: italic;">Low Power, High Interest</p>
+                            <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                                <li style="margin: 0;"><strong>Team Members</strong> - Directly affected daily, limited authority</li>
+                                <li style="margin: 0;"><strong>Cross-Functional Teams</strong> - Experience pain points, need solutions</li>
+                                <li style="margin: 0;"><strong>HR Department</strong> - Handle satisfaction concerns, advisory role</li>
+                                <li style="margin: 0;"><strong>IT Department</strong> - Support tools but don't control adoption</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 2px 0; border-left: 3px solid #6B4E3D;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Engagement Strategy Summary:</p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;"><strong>Manage Closely (4 groups):</strong> Regular updates, involve in decision-making, address concerns proactively</li>
+                        <li style="margin: 0;"><strong>Keep Satisfied (3 groups):</strong> Quarterly briefings, ensure no surprises, maintain positive relationship</li>
+                        <li style="margin: 0;"><strong>Keep Informed (4 groups):</strong> Transparent communication, solicit feedback, show how input is used</li>
+                        <li style="margin: 0;"><strong>Monitor (4 groups):</strong> Minimal engagement, periodic updates via standard channels</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Data Sources & Collection Methods -->
+        <div style="margin-bottom: 4px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">📚 Stakeholder Data Sources & Collection Methods</h3>
+            </div>
+            
+            <div style="background: #fafaf8; padding: 4px; border-radius: 6px; margin: 1px 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Primary Data Collection Approach: <span style="color: #6B4E3D;">Secondary Sources</span></p>
+                <p style="margin: 0 0 3px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Stakeholder perspectives gathered through existing documentation, public records, and published materials rather than direct interviews/surveys to maintain objectivity and access broader perspectives.</p>
+                
+                <!-- Source Categories -->
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 3px;">
+                    <!-- Company Reports -->
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #6B4E3D;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">📊 Company Reports</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Examples:</strong> Annual reports, quarterly earnings calls, internal newsletters, project status reports</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholders Covered:</strong> Executive leadership, financial partners, department heads</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>What to Look For:</strong> Productivity metrics, efficiency initiatives, operational challenges mentioned</p>
+                    </div>
+                    
+                    <!-- Press Releases & News -->
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">📰 Press Releases & News Articles</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Examples:</strong> Corporate announcements, industry news coverage, financial press, business journals</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholders Covered:</strong> Clients, competitors, industry analysts, regulators</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>What to Look For:</strong> External perceptions, service quality issues, competitive positioning</p>
+                    </div>
+                    
+                    <!-- Industry Surveys -->
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">📋 Industry Surveys & Reports</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Examples:</strong> Employee engagement surveys, workplace culture assessments, industry benchmarking studies</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholders Covered:</strong> Team members, HR department, cross-functional teams</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>What to Look For:</strong> Collaboration pain points, communication effectiveness ratings, satisfaction scores</p>
+                    </div>
+                    
+                    <!-- Social Media & Reviews -->
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">💬 Social Media & Online Reviews</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Examples:</strong> LinkedIn posts, Glassdoor reviews, Twitter/X discussions, Reddit forums, industry communities</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholders Covered:</strong> Current/former employees, clients, technology vendors, general public</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>What to Look For:</strong> Authentic experiences, frustrations, collaboration challenges, tool complaints</p>
+                    </div>
+                    
+                    <!-- Public Testimony/Comments -->
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #d4c4a8;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">🎤 Public Testimony & Regulatory Comments</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Examples:</strong> Regulatory filings, compliance reports, public hearings, industry association statements</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholders Covered:</strong> Regulators, trade associations, financial partners, legal stakeholders</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>What to Look For:</strong> Compliance concerns, operational risks, transparency issues, systemic problems</p>
+                    </div>
+                    
+                    <!-- Client Feedback Systems -->
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #e8dcc8;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">⭐ Client Feedback & Service Records</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Examples:</strong> Customer satisfaction scores, service tickets, complaint logs, testimonials, case studies</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholders Covered:</strong> Clients/customers, project managers, service delivery teams</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>What to Look For:</strong> Delayed deliveries, communication breakdowns, quality issues, responsiveness concerns</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Collection Process -->
+        <div style="margin-bottom: 2px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">🔍 Data Collection Process</h3>
+            </div>
+            
+            <div style="background: #fafaf8; padding: 4px; border-radius: 6px; margin: 1px 0;">
+                <div style="display: grid; grid-template-columns: auto 1fr; gap: 3px;">
+                    <!-- Step 1 -->
+                    <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px; border-radius: 4px; text-align: center; font-weight: 700; font-size: 1.1em; min-width: 40px;">1</div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #6B4E3D;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Identify Priority Stakeholders</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Focus on "Manage Closely" and "Keep Informed" groups from Power/Interest diagram (8 stakeholder groups representing those most affected or influential)</p>
+                    </div>
+                    
+                    <!-- Step 2 -->
+                    <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px; border-radius: 4px; text-align: center; font-weight: 700; font-size: 1.1em; min-width: 40px;">2</div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Search Relevant Secondary Sources</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Use keyword searches: "cross-functional communication," "team collaboration challenges," "project delays," "productivity issues financial services." Target last 18-24 months for currency.</p>
+                    </div>
+                    
+                    <!-- Step 3 -->
+                    <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px; border-radius: 4px; text-align: center; font-weight: 700; font-size: 1.1em; min-width: 40px;">3</div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Extract Stakeholder Perspectives</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Document direct quotes, sentiment indicators, specific complaints/concerns, reported impacts, suggested solutions. Maintain source citations for verification.</p>
+                    </div>
+                    
+                    <!-- Step 4 -->
+                    <div style="background: linear-gradient(135deg, #c8b99c 0%, #d4c4a8 100%); color: #4A3429; padding: 4px; border-radius: 4px; text-align: center; font-weight: 700; font-size: 1.1em; min-width: 40px;">4</div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Analyze & Synthesize Themes</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Group findings by stakeholder category, identify common themes, note contradictions, assess alignment with X→Y hypothesis. Look for convergent evidence across multiple sources.</p>
+                    </div>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 2px 0; border-left: 3px solid #6B4E3D;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Why Secondary Sources?</p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;"><strong>Objectivity:</strong> Reduces researcher bias, captures unsolicited authentic opinions</li>
+                        <li style="margin: 0;"><strong>Breadth:</strong> Access to wider range of stakeholders than direct interviews would allow</li>
+                        <li style="margin: 0;"><strong>Efficiency:</strong> Faster data collection without scheduling constraints</li>
+                        <li style="margin: 0;"><strong>Credibility:</strong> Published sources often have editorial review, fact-checking</li>
+                        <li style="margin: 0;"><strong>Triangulation:</strong> Multiple independent sources strengthen evidence validity</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 
-### Internal Stakeholders
-#### Management/Leadership
-- **Target Participants:** [Specific roles or levels]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from leadership]
-- **Expected Response Rate:** [Realistic participation estimate]
+</div>
 
-#### Employees/Staff
-- **Target Participants:** [Departments, roles, or demographic groups]
-- **Engagement Method:** [Surveys, interviews, focus groups]
-- **Key Questions Focus:** [What you most need to learn from employees]
-- **Expected Response Rate:** [Realistic participation estimate]
+</div>
 
-#### Other Internal Groups
-[Additional internal stakeholder categories]
-
-### External Stakeholders
-#### Customers/Clients
-- **Target Participants:** [Customer segments or types]
-- **Engagement Method:** [Surveys, interviews, feedback sessions]
-- **Key Questions Focus:** [What you most need to learn from customers]
-- **Expected Response Rate:** [Realistic participation estimate]
-
-#### Partners/Suppliers
-- **Target Participants:** [Types of business partners]
-- **Engagement Method:** [Interviews, surveys, informal discussions]
-- **Key Questions Focus:** [What you most need to learn from partners]
-- **Expected Response Rate:** [Realistic participation estimate]
-
-## Data Collection Methods
-
-### Survey Design
-#### Online Survey Platform
-- **Platform Choice:** [SurveyMonkey, Google Forms, Qualtrics, etc.]
-- **Survey Length:** [Estimated completion time]
-- **Question Types:** [Mix of multiple choice, rating scales, open-ended]
-- **Incentives:** [What you'll offer for participation]
-
-#### Key Survey Questions
-**Problem Assessment Questions:**
-- How frequently do you encounter [problem description]?
-- How significantly does this problem impact your work/experience?
-- What do you see as the main causes of this problem?
-
-**Solution Feedback Questions:**
-- How would you rate the feasibility of [proposed solution]?
-- What concerns do you have about implementing this solution?
-- What would make this solution more effective?
-
-**Priority and Support Questions:**
-- How important is solving this problem compared to other priorities?
-- What level of support would you provide for this initiative?
-- What resources should be allocated to address this problem?
-
-### Interview Protocol
-#### Interview Structure
-- **Duration:** [Target length for each interview]
-- **Format:** [In-person, phone, video conference]
-- **Recording:** [Will interviews be recorded? How?]
-- **Note-taking:** [How will you capture responses]
-
-#### Interview Questions
-**Opening Questions:**
-- Tell me about your role and how this problem affects you
-- How long have you been aware of this issue?
-
-**Problem Exploration:**
-- Can you describe a specific example of when this problem occurred?
-- What impact has this problem had on your work/experience?
-- What do you think causes this problem?
-
-**Solution Discussion:**
-- What solutions have you considered or tried?
-- How do you think [proposed solution] would work in practice?
-- What challenges or barriers do you foresee?
-
-**Implementation Questions:**
-- What would success look like from your perspective?
-- What support would you need to make this solution work?
-- Who else should be involved in addressing this problem?
-
-### Focus Groups (if applicable)
-#### Focus Group Design
-- **Group Size:** [Target number of participants per group]
-- **Number of Groups:** [How many focus groups planned]
-- **Group Composition:** [Homogeneous or mixed stakeholder groups]
-- **Facilitation:** [Who will facilitate and how]
-
-## Sampling Strategy
-
-### Stakeholder Identification
-#### Stakeholder Mapping
-[List specific individuals or groups you'll target]
-
-#### Sampling Approach
-- **Total Target Sample:** [Number of stakeholders to engage]
-- **Sampling Method:** [Random, purposive, convenience, stratified]
-- **Representation Goals:** [What diversity of perspectives you want]
-
-### Recruitment Strategy
-#### Outreach Method
-**Email Invitation Template:**
-[Draft your stakeholder outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up with non-responders]
-
-**Gatekeepers:**
-[Who might help you reach stakeholders or whose permission you need]
-
-## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain the research purpose]
-- **Participation Voluntariness:** [Making clear that participation is optional]
-- **Data Use:** [How you'll explain how their input will be used]
-- **Anonymity/Confidentiality:** [What privacy protections you'll provide]
-
-### Organizational Permissions
-- **Supervisor Approval:** [Do you need management approval for stakeholder engagement?]
-- **HR Consultation:** [Should you coordinate with HR for employee surveys/interviews?]
-- **External Stakeholder Protocols:** [Any special considerations for external stakeholders?]
-
-## Timeline and Logistics
-
-### Data Collection Schedule
-- **Survey Launch:** [When you'll distribute surveys]
-- **Survey Close:** [Deadline for survey responses]
-- **Interview Period:** [Window for conducting interviews]
-- **Focus Group Dates:** [When focus groups will occur]
-- **Follow-up Period:** [Time for additional questions or clarifications]
-
-### Logistical Planning
-#### Survey Distribution
-- **Distribution Method:** [Email, paper, internal systems]
-- **Reminder Schedule:** [When you'll send follow-up reminders]
-- **Technical Support:** [How you'll help participants with technical issues]
-
-#### Interview Scheduling
-- **Scheduling Method:** [How you'll coordinate interview times]
-- **Location Planning:** [Where interviews will take place]
-- **Equipment Needs:** [Recording equipment, note-taking materials]
-
-## Response Rate Strategy
-
-### Maximizing Participation
-#### Engagement Tactics
-- **Leadership Endorsement:** [Getting visible support from management]
-- **Clear Value Proposition:** [Explaining how participation benefits stakeholders]
-- **Convenient Participation:** [Making it easy to participate]
-- **Multiple Touchpoints:** [Various opportunities to engage]
-
-#### Incentive Strategy
-- **Direct Incentives:** [What you might offer participants]
-- **Indirect Benefits:** [How participation serves stakeholder interests]
-- **Recognition:** [How you might acknowledge participant contributions]
-
-### Minimum Viable Sample
-- **Minimum Response Rate:** [What response rate you need for credible results]
-- **Backup Plan:** [What you'll do if response rates are low]
-- **Alternative Methods:** [Other ways to gather stakeholder input if needed]
-
-## Data Management Plan
-
-### Data Collection Organization
-- **Response Tracking:** [How you'll track who has responded]
-- **Data Storage:** [Where and how you'll store stakeholder responses]
-- **Data Security:** [How you'll protect stakeholder information]
-- **Backup Plan:** [How you'll prevent data loss]
-
-### Analysis Preparation
-- **Coding Strategy:** [How you'll analyze open-ended responses]
-- **Quantitative Analysis:** [How you'll analyze survey data]
-- **Integration Plan:** [How you'll combine different types of stakeholder evidence]
-
----
-INSTRUCTIONS:
-1. Start stakeholder engagement early - it often takes longer than expected
-2. Be respectful of stakeholder time and provide clear value for participation  
-3. Get appropriate permissions before engaging organizational stakeholders
-4. Plan for lower response rates than you hope for
-5. Have multiple methods to reach different types of stakeholders

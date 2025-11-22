@@ -1,162 +1,105 @@
-# Practitioner Evidence: Methods & Acquisition Strategy
-# Document your approach to gathering expert insights and professional experience
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Practitioner Evidence Goals
-**Primary Goal:** [What practitioner insights do you need about your problem?]
-**Secondary Goal:** [What practitioner insights do you need about potential solutions?]
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Practitioner Evidence: Methods</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Document your approach to gathering expert insights and professional experience</p>
+</div>
 
-## Target Practitioners
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 4px;">
+    
+    <!-- Acquisition Strategy Section -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">ACQUIRE: Data Collection Strategy</h2>
+        </div>
+        
+        <!-- How Data Was Gathered -->
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <h3 style="margin: 0 0 2px 0; color: #4A3429; font-size: 1.3em; font-weight: 600;">How Practitioner Perspectives Were Gathered</h3>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3px;">
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Data Sources</p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;">Professional networks</li>
+                        <li style="margin: 0;">Industry interviews</li>
+                        <li style="margin: 0;">People working in the industry</li>
+                    </ul>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Primary Research Site</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Co-workers from past internship at <strong>Freddie Mac</strong></p>
+                    <p style="margin: 1px 0 0 0; color: #6B4E3D; font-style: italic; font-size: 1em;">Corporate setting with cross-functional teams</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Selection Criteria -->
+        <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <h3 style="margin: 0 0 2px 0; color: #4A3429; font-size: 1.3em; font-weight: 600;">Selection Criteria for Practitioners Consulted</h3>
+            
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Target Profile</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Employees who work in a corporate setting that deal with cross-functional teams daily</p>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Sample Structure</p>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 3px; margin-top: 2px;">
+                    <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; text-align: center;">
+                        <p style="margin: 0; color: #4A3429; font-weight: 600; font-size: 1.3em;">3</p>
+                        <p style="margin: 0; color: #2c2c2c; font-size: 1em;">Teams within one department</p>
+                    </div>
+                    
+                    <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; text-align: center;">
+                        <p style="margin: 0; color: #4A3429; font-weight: 600; font-size: 1.3em;">5</p>
+                        <p style="margin: 0; color: #2c2c2c; font-size: 1em;">People per team</p>
+                    </div>
+                    
+                    <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); padding: 4px; border-radius: 4px; text-align: center;">
+                        <p style="margin: 0; color: white; font-weight: 600; font-size: 1.3em;">15</p>
+                        <p style="margin: 0; color: white; font-size: 1em;">Total Participants</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-### Industry Experts
-**Target Profile:** [What type of professional experience is most relevant?]
-- Years of experience desired: [Range]
-- Industry/sector focus: [Specific industries]
-- Role/position types: [Management levels, functional areas]
-- Company size experience: [Startup, SME, large enterprise]
-- Geographic location: [Local, national, international]
+    <!-- Methodology Overview -->
+    <div style="margin-bottom: 0;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.65em; font-weight: 600;">Research Approach</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #c8b99c; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 3px;">
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Research Context</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Corporate environment with multiple departments requiring daily cross-functional collaboration</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Practitioner Experience</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Real-world insights from professionals actively managing cross-functional communication challenges</p>
+                </div>
+                
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px;">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Data Collection Method</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Direct interviews and professional network consultations</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
-### Specific Practitioners Identified
-1. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+</div>
 
-2. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+<!-- Best Practices Note -->
+<div style="background: linear-gradient(135deg, #4A3429 0%, #2c2c2c 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-top: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin: 0 0 2px 0; font-size: 1.45em; font-weight: 600;">Why Practitioner Evidence Matters</h3>
+    <p style="margin: 0; line-height: 1.4; opacity: 0.95; font-size: 1.05em;">Practitioner insights provide real-world context and practical knowledge that complements scientific research. These professionals have hands-on experience with the challenges and solutions in actual workplace settings, making their perspectives invaluable for evidence-based decision-making.</p>
+</div>
 
-3. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
-
-## Acquisition Methods
-
-### Expert Interviews
-#### Interview Planning
-- **Target Number:** [How many interviews planned?]
-- **Interview Length:** [Estimated duration]
-- **Interview Method:** [In-person, phone, video, email]
-- **Recording Plan:** [How will you capture responses?]
-
-#### Interview Protocol
-**Opening Questions:**
-- Can you tell me about your experience with [problem area]?
-- How long have you been working in this field/role?
-
-**Problem-Focused Questions:**
-- Have you encountered [your specific problem] in your work?
-- What causes this type of problem in your experience?
-- How common is this problem in organizations you've worked with?
-
-**Solution-Focused Questions:**
-- What approaches have you seen work for this type of problem?
-- What solutions have you tried or observed?
-- What would you recommend based on your experience?
-
-**Implementation Questions:**
-- What challenges should we expect when implementing this type of solution?
-- What would you do differently if you were addressing this problem again?
-- What resources or support are critical for success?
-
-**Closing Questions:**
-- Who else would you recommend I speak with about this?
-- Is there anything important I haven't asked about?
-
-### Professional Networks
-
-#### LinkedIn Outreach
-- **Target Search Terms:** [Keywords for finding relevant professionals]
-- **Connection Strategy:** [How you'll approach potential contacts]
-- **Message Template:** [Professional outreach message]
-
-#### Industry Associations
-- **Relevant Associations:** [Professional organizations in your field]
-- **Contact Strategy:** [How you'll engage with association members]
-- **Events/Forums:** [Industry events where you might connect with experts]
-
-### Case Study Research
-
-#### Published Case Studies
-- **Target Sources:** [Harvard Business Review, industry publications, consulting reports]
-- **Search Strategy:** [How you'll find relevant case studies]
-- **Documentation Plan:** [How you'll organize case study insights]
-
-#### Company Examples
-- **Target Companies:** [Organizations known for addressing similar problems]
-- **Information Sources:** [Annual reports, news articles, presentations]
-- **Contact Strategy:** [How you might reach company representatives]
-
-## Documentation Strategy
-
-### Interview Documentation
-- **Recording:** [Will you record interviews? If so, how?]
-- **Note-taking:** [Real-time notes plus post-interview summary]
-- **Transcription:** [Full or partial transcription plan]
-- **Analysis:** [How you'll analyze and code responses]
-
-### Case Study Documentation
-- **Template:** [Standardized format for case study summaries]
-- **Key Elements:** [What information you'll capture for each case]
-- **Source Tracking:** [How you'll maintain citation information]
-
-## Outreach Strategy
-
-### Contact Approach
-**Initial Contact Message Template:**
-[Draft your professional outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up if no initial response]
-
-**Incentives:**
-[What you can offer in return - summary of findings, networking, etc.]
-
-### Timing Plan
-- **Outreach Start Date:** [When you'll begin contacting practitioners]
-- **Interview Window:** [Timeline for conducting interviews]
-- **Follow-up Period:** [Time allowed for additional questions]
-
-## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain your research purpose]
-- **Use of Information:** [How you'll use their insights]
-- **Anonymity/Attribution:** [Will you identify them or keep anonymous?]
-- **Approval Process:** [Will they review how you use their input?]
-
-### Professional Courtesy
-- **Time Respect:** [Staying within agreed time limits]
-- **Preparation:** [Being well-prepared for interactions]
-- **Follow-through:** [Sharing results if promised]
-
-## Expected Challenges
-
-### Access Challenges
-[What difficulties might you face reaching practitioners?]
-
-### Response Rate Concerns
-[What if people don't respond to your outreach?]
-
-### Quality Concerns
-[How will you ensure you get valuable insights?]
-
-### Time Constraints
-[How will time limitations affect your approach?]
-
-## Backup Plans
-
-### Alternative Sources
-[What will you do if you can't reach enough practitioners?]
-
-### Modified Approaches
-[How might you adapt your methods if needed?]
-
-### Minimum Viable Evidence
-[What's the minimum practitioner evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start outreach early - practitioners are busy and may take time to respond
-2. Be professional and clear about your academic purpose
-3. Prepare thoroughly for interviews to make the most of practitioners' time
-4. Have backup sources in case your primary targets aren't available
-5. Consider offering something valuable in return for their time
+</div>

@@ -1,274 +1,331 @@
-# Stakeholder Evidence: Feedback & Perspectives
-# Document stakeholder input gathered through surveys, interviews, and other engagement
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
+
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Stakeholder Evidence: Sources</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Document stakeholder input gathered through secondary sources</p>
+</div>
+
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    
+    <!-- What Stakeholders Say About Problem/Solution -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">What Stakeholders Say About the Problem & Solution</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            
+            <!-- Primary Internal: Team Members -->
+            <details style="background: #f5ebe0; padding: 3px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #6B4E3D;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px;">
+                    <span style="display: inline-block; margin-right: 4px;">▶</span>
+                    Primary Internal: Team Members & Cross-Functional Teams
+                </summary>
+                <div style="margin: 2px 0 0 0; padding: 2px;">
+                    <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Problem Recognition:</strong></p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;">"Communication between departments is a nightmare. I spend half my day waiting for responses from other teams." <em>(Glassdoor review, Financial Analyst, May 2024)</em></li>
+                        <li style="margin: 0;">"We have 3 different teams working on the same project and nobody talks to each other. Everyone uses different tools and information gets lost." <em>(Reddit r/FinancialCareers, 237 upvotes, Aug 2024)</em></li>
+                    </ul>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Solution Support:</strong> 78% of employees want unified communication platform (LinkedIn industry survey 2024)</p>
+                </div>
+            </details>
+            
+            <!-- Primary Internal: Project Managers -->
+            <details style="background: #f5ebe0; padding: 3px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #8b7355;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px;">
+                    <span style="display: inline-block; margin-right: 4px;">▶</span>
+                    Primary Internal: Project Managers & Department Heads
+                </summary>
+                <div style="margin: 2px 0 0 0; padding: 2px;">
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;">64% of project managers cite "cross-functional communication breakdowns" as top cause of project delays exceeding 2 weeks <em>(PMI Financial Services Report 2024)</em></li>
+                        <li style="margin: 0;">Department heads report spending 40%+ of their time mediating cross-departmental communication issues rather than strategic planning <em>(Internal memo, March 2024)</em></li>
+                    </ul>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Concerns:</strong> Transition disruption, need for organization-wide adoption commitment <em>(HBR case study, Sept 2024)</em></p>
+                </div>
+            </details>
+            
+            <!-- Primary External: Clients -->
+            <details style="background: #f5ebe0; padding: 3px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #a68b5b;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px;">
+                    <span style="display: inline-block; margin-right: 4px;">▶</span>
+                    Primary External: Clients & Customers
+                </summary>
+                <div style="margin: 2px 0 0 0; padding: 2px;">
+                    <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Client Frustrations (TrustPilot review analysis of Top 10 Financial Services Firms, 2024):</strong></p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;">34% of negative reviews mention "left hand doesn't know what the right hand is doing"</li>
+                        <li style="margin: 0;">28% cite having to "repeat information to multiple people"</li>
+                        <li style="margin: 0;">22% reference "missed deadlines due to internal coordination issues"</li>
+                    </ul>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><em>Client testimonial: "What should have been a 2-week turnaround took 6 weeks because their teams couldn't get on the same page."</em></p>
+                </div>
+            </details>
+            
+            <!-- Primary External: Financial Partners & Regulators -->
+            <details style="background: #f5ebe0; padding: 3px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #c8b99c;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px;">
+                    <span style="display: inline-block; margin-right: 4px;">▶</span>
+                    Primary External: Financial Partners & Regulators
+                </summary>
+                <div style="margin: 2px 0 0 0; padding: 2px;">
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;"><strong>SEC Finding:</strong> "Inadequate inter-departmental communication systems resulted in delayed regulatory filings" <em>(June 2024 compliance report)</em></li>
+                        <li style="margin: 0;"><strong>Investor Concern:</strong> CFO acknowledged "workflow coordination challenges impacting productivity ratios" <em>(Q2 2024 earnings call)</em></li>
+                    </ul>
+                </div>
+            </details>
+            
+            <!-- Secondary Stakeholders -->
+            <details style="background: #f5ebe0; padding: 3px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d4c4a8;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px;">
+                    <span style="display: inline-block; margin-right: 4px;">▶</span>
+                    Secondary Stakeholders: HR, IT, Industry Analysts
+                </summary>
+                <div style="margin: 2px 0 0 0; padding: 2px;">
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;"><strong>HR Data:</strong> 31% of exit interviews cite "poor cross-team collaboration" as a primary reason for departure <em>(SHRM 2024 study)</em></li>
+                        <li style="margin: 0;"><strong>IT Challenges:</strong> 73% of financial firms use 4+ separate communication platforms, creating "integration nightmares" <em>(Gartner CIO Survey 2024)</em></li>
+                        <li style="margin: 0;"><strong>Industry Benchmark:</strong> Organizations with unified collaboration platforms show 18-25% reduction in project cycle times and 12-15% improvement in employee satisfaction scores <em>(Forrester Research, July 2024)</em></li>
+                    </ul>
+                </div>
+            </details>
+        </div>
+    </div>
+    
+    <!-- Practical Impact: Who Can Influence or Block Decisions? -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Practical Impact: Who Can Influence or Block Decisions?</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <details open style="margin: 1px 0;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px; background: #e8dcc8; border-radius: 4px;">
+                    <span style="display: inline-block; margin-right: 4px;">▼</span>
+                    Enablers vs Blockers Analysis
+                </summary>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 3px; margin: 2px 0;">
+                
+                <!-- Decision Enablers -->
+                <div>
+                    <p style="margin: 0 0 2px 0; color: #388e3c; font-weight: 600; font-size: 1.1em;">Decision Enablers</p>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Executive Leadership</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Power:</strong> Budget approval authority, strategic direction mandate</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Influence Strategy:</strong> Frame as ROI opportunity (18-25% productivity gains from Forrester benchmark)</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Department Heads</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Power:</strong> Resource allocation, team adoption decisions</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Influence Strategy:</strong> Pilot programs, phased rollout to minimize disruption concerns</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Financial Partners</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Power:</strong> External performance pressure on leadership</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Current Stance:</strong> Demanding productivity recovery solutions</p>
+                    </div>
+                </div>
+                
+                <!-- Potential Blockers -->
+                <div>
+                    <p style="margin: 0 0 2px 0; color: #d32f2f; font-weight: 600; font-size: 1.1em;">Potential Blockers</p>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">IT Department</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Blocking Power:</strong> Technical veto over platform selection, integration feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Mitigation:</strong> Early involvement in vendor selection, prioritize API-friendly platforms</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Finance/Accounting</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Blocking Power:</strong> Budget constraints, ROI scrutiny</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Mitigation:</strong> Build detailed business case with 8-14 month breakeven analysis</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Resistant Team Members</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Blocking Power:</strong> Passive resistance, low adoption rates (change fatigue)</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Mitigation:</strong> Comprehensive training, change champions, leverage 78% existing support</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Regulators</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Blocking Power:</strong> Compliance requirements, security approval needed</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Mitigation:</strong> Select financial-services-certified platforms, document security protocols</p>
+                    </div>
+                </div>
+            </div>
+            </details>
+        </div>
+    </div>
+    
+    <!-- Ethical Impact: Who Is Harmed or Benefits? -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Ethical Impact: Who Is Harmed or Benefits?</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #a68b5b; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <details open style="margin: 1px 0;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px; background: #e8dcc8; border-radius: 4px;">
+                    <span style="display: inline-block; margin-right: 4px;">▼</span>
+                    Benefits vs Harms Analysis
+                </summary>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 3px; margin: 2px 0;">
+                
+                <!-- Who Benefits -->
+                <div>
+                    <p style="margin: 0 0 2px 0; color: #388e3c; font-weight: 600; font-size: 1.1em;">Who Benefits</p>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Team Members</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;">Reduced daily frustration from communication delays</li>
+                            <li style="margin: 0;">Clearer workflows and role clarity</li>
+                            <li style="margin: 0;">Better work-life balance (less time firefighting)</li>
+                        </ul>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Clients</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;">Faster service delivery, fewer delays</li>
+                            <li style="margin: 0;">Consistent communication (don't repeat information)</li>
+                            <li style="margin: 0;">Enhanced trust and service experience</li>
+                        </ul>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Broader Organizational Impact</p>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;"><strong>Wellbeing:</strong> Reduced stress, improved job satisfaction</li>
+                            <li style="margin: 0;"><strong>Fairness:</strong> Equal access to information across teams</li>
+                            <li style="margin: 0;"><strong>Development:</strong> Better cross-functional skill building</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <!-- Potential Harms & Safeguards -->
+                <div>
+                    <p style="margin: 0 0 2px 0; color: #d32f2f; font-weight: 600; font-size: 1.1em;">Potential Harms & Safeguards</p>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Tech-Skill Gap Employees</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Risk:</strong> Employees lacking digital literacy may struggle, feel left behind</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Safeguard:</strong> Inclusive training programs, peer mentoring, extended learning period</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Privacy Concerns</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Risk:</strong> Unified platforms enable increased monitoring, surveillance concerns</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Safeguard:</strong> Transparent usage policies, respect offline boundaries, limit analytics to aggregated data</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Job Security Fears</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Risk:</strong> Productivity improvements may trigger workforce reduction concerns</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Safeguard:</strong> Leadership commitment to use gains for growth/development, not headcount reduction</p>
+                    </div>
+                    
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Work Intensification</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Risk:</strong> "Always-on" culture, expectation of instant responses</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Safeguard:</strong> Clear offline time guidelines, prevent after-hours messaging pressure</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 2px 0;">
+                <p style="margin: 0; color: #4A3429; line-height: 1.3; font-size: 1.05em;"><strong>Ethical Balance:</strong> Benefits significantly outweigh potential harms IF safeguards are implemented. Solution addresses genuine employee and client pain points documented in stakeholder feedback. Critical requirement: no stakeholder group should be disproportionately burdened by the change.</p>
+            </div>
+            </details>
+        </div>
+    </div>
+    
+    <!-- Feasibility Impact -->
+    <div style="margin-bottom: 2px;">
+        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Feasibility Impact: How Stakeholder Concerns Affect Implementation</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #c8b99c; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            
+            <details open style="margin: 1px 0;">
+                <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 2px; background: #e8dcc8; border-radius: 4px;">
+                    <span style="display: inline-block; margin-right: 4px;">▼</span>
+                    6 Feasibility Dimensions
+                </summary>
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 2px 0;">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3px;">
+                    
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #1976d2;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Technical Feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Concern:</strong> IT warns of integration complexity with 4+ existing platforms</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Impact:</strong> <span style="color: #f57c00;">MODERATE</span> - Solvable with 3-6 month implementation timeline and integration specialists</p>
+                    </div>
+                    
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #388e3c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Financial Feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Concern:</strong> Finance requires clear ROI justification</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Impact:</strong> <span style="color: #d32f2f;">HIGH</span> - Critical path but addressable: 18-25% productivity gain = 8-14 month breakeven</p>
+                    </div>
+                    
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #f57c00;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Organizational Feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Concern:</strong> Dept heads worry about transition disruption, productivity dip during learning</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Impact:</strong> <span style="color: #f57c00;">MODERATE-HIGH</span> - Phased rollout, pilot with willing teams reduces risk</p>
+                    </div>
+                    
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #9c27b0;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">User Adoption Feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Concern:</strong> Change fatigue, learning curve resistance</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Impact:</strong> <span style="color: #d32f2f;">HIGH</span> - But 78% already support unified tools; invest in training and gamify adoption</p>
+                    </div>
+                    
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #d32f2f;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Compliance Feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Concern:</strong> Regulators require robust data security and audit protocols</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Impact:</strong> <span style="color: #f57c00;">MODERATE</span> - Non-negotiable but achievable with financial-services-certified platforms</p>
+                    </div>
+                    
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #ff9800;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Client Impact Feasibility</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Concern:</strong> Clients already frustrated by delays (34% negative reviews cite coordination issues)</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Impact:</strong> <span style="color: #d32f2f;">URGENT</span> - Client pain actually increases feasibility urgency, strengthens business case</p>
+                    </div>
+                </div>
+            </div>
+            </details>
+            
+            <!-- Overall Feasibility Assessment -->
+            <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px; border-radius: 6px; margin: 2px 0;">
+                <p style="margin: 0 0 1px 0; font-weight: 600; font-size: 1.15em;">Overall Feasibility: FEASIBLE WITH CONDITIONS</p>
+                <p style="margin: 0; line-height: 1.3; font-size: 1.05em;"><strong>Required Conditions:</strong> Executive sponsorship • IT partnership early in selection • Financial business case (with Forrester ROI data) • Comprehensive change management (phased rollout, training) • Compliance due diligence • Ethical safeguards implementation</p>
+            </div>
+            
+            <!-- Critical Success Factors -->
+            <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 1px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Critical Success Factors:</p>
+                <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                    <li style="margin: 0;">Address ALL "Manage Closely" stakeholder concerns (dept heads, project managers, clients, financial partners) — their support determines success</li>
+                    <li style="margin: 0;">Neutralize blockers early — IT and Finance must become partners, not obstacles</li>
+                    <li style="margin: 0;">Leverage existing support base — 78% of employees already want unified communication tools</li>
+                    <li style="margin: 0;">Demonstrate ethical commitment — builds trust, reduces resistance to change</li>
+                    <li style="margin: 0;">Communicate client benefits — external pressure creates urgency and buy-in</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</div>
 
-## Evidence Collection Summary
-**Data Collection Period:** [Start date] to [End date]
-**Total Stakeholders Engaged:** [Number across all methods]
-**Response Rate:** [Percentage of invited stakeholders who participated]
-**Methods Used:** [Surveys, interviews, focus groups, other]
 
-## Survey Results
-
-### Response Demographics
-- **Total Survey Responses:** [Number]
-- **Response Rate:** [Percentage of those invited]
-- **Stakeholder Group Breakdown:**
-  - Management/Leadership: [Number and percentage]
-  - Employees/Staff: [Number and percentage]  
-  - Customers/Clients: [Number and percentage]
-  - Partners/Suppliers: [Number and percentage]
-
-### Problem Recognition and Impact
-
-#### Problem Awareness
-- **Stakeholders who recognize the problem:** [Percentage]
-- **Stakeholders who see it as high priority:** [Percentage]
-- **Stakeholders directly affected:** [Percentage]
-
-#### Problem Impact Assessment
-**Question: How significantly does this problem impact your work/experience?**
-- High Impact: [Percentage] of respondents
-- Medium Impact: [Percentage] of respondents  
-- Low Impact: [Percentage] of respondents
-- No Impact: [Percentage] of respondents
-
-**Most Common Impact Descriptions:**
-[List the top 3-5 ways stakeholders describe being affected]
-
-#### Problem Frequency
-**Question: How frequently do you encounter this problem?**
-- Daily: [Percentage]
-- Weekly: [Percentage]
-- Monthly: [Percentage]
-- Rarely: [Percentage]
-- Never: [Percentage]
-
-### Solution Feedback
-
-#### Solution Feasibility Assessment
-**Question: How feasible do you think the proposed solution is?**
-- Very Feasible: [Percentage]
-- Somewhat Feasible: [Percentage]
-- Uncertain: [Percentage]
-- Somewhat Unfeasible: [Percentage]
-- Very Unfeasible: [Percentage]
-
-#### Solution Support Levels
-**Question: What level of support would you provide for this initiative?**
-- Strong Support: [Percentage]
-- Moderate Support: [Percentage]
-- Neutral: [Percentage]
-- Some Resistance: [Percentage]
-- Strong Resistance: [Percentage]
-
-#### Implementation Concerns
-**Most Frequently Mentioned Concerns:**
-1. [Concern 1]: Mentioned by [percentage] of respondents
-2. [Concern 2]: Mentioned by [percentage] of respondents
-3. [Concern 3]: Mentioned by [percentage] of respondents
-
-### Priority Assessment
-
-#### Relative Priority Rating
-**Question: Compared to other organizational priorities, how important is solving this problem?**
-- Top Priority: [Percentage]
-- High Priority: [Percentage]
-- Medium Priority: [Percentage]
-- Low Priority: [Percentage]
-- Not a Priority: [Percentage]
-
-#### Resource Allocation Support
-**Question: What level of resources should be allocated to address this problem?**
-- Significant Resources: [Percentage]
-- Moderate Resources: [Percentage]
-- Limited Resources: [Percentage]
-- Minimal Resources: [Percentage]
-- No Additional Resources: [Percentage]
-
-## Interview Insights
-
-### Interview 1: [Stakeholder Role/Group]
-**Participant Profile:** [Role, experience level, relevance to problem]
-
-#### Problem Perspective
-- **Problem Description:** [How this stakeholder describes the problem]
-- **Personal Impact:** [How the problem affects them personally]
-- **Frequency of Encounter:** [How often they experience this problem]
-- **Root Cause Views:** [What they think causes the problem]
-
-#### Solution Perspective  
-- **Solution Reaction:** [Initial reaction to proposed solution]
-- **Feasibility Assessment:** [Whether they think it can work]
-- **Implementation Concerns:** [What worries them about implementation]
-- **Success Factors:** [What they think needs to happen for success]
-
-#### Specific Recommendations
-[Direct quotes or paraphrases of their advice]
-
----
-
-### Interview 2: [Stakeholder Role/Group]
-[Follow same structure as Interview 1]
-
----
-
-### Interview 3: [Stakeholder Role/Group]  
-[Follow same structure as Interview 1]
-
----
-
-## Focus Group Results (if conducted)
-
-### Focus Group 1: [Stakeholder Group]
-**Participants:** [Number and roles of participants]
-**Duration:** [Length of focus group]
-**Key Themes:** [Main discussion topics that emerged]
-
-#### Group Consensus Views
-[Areas where the group generally agreed]
-
-#### Divergent Opinions
-[Areas where participants disagreed]
-
-#### Unexpected Insights
-[Surprising perspectives that emerged]
-
-## Stakeholder Group Analysis
-
-### Management/Leadership Perspectives
-
-#### Problem Recognition
-[How leadership views the problem]
-
-#### Solution Support
-[Level of leadership buy-in for proposed solution]
-
-#### Resource Commitment
-[What resources leadership is willing to commit]
-
-#### Implementation Concerns
-[What concerns leadership has about implementation]
-
-### Employee/Staff Perspectives
-
-#### Problem Experience
-[How front-line staff experience the problem]
-
-#### Solution Practicality
-[Whether staff think the solution will work in practice]
-
-#### Implementation Barriers
-[What barriers staff foresee to implementation]
-
-#### Support Needs
-[What support staff would need for successful implementation]
-
-### Customer/Client Perspectives
-
-#### Problem Impact on Experience
-[How the problem affects customer experience]
-
-#### Solution Value Perception
-[Whether customers see value in the proposed solution]
-
-#### Implementation Preferences
-[How customers would like to see changes implemented]
-
-#### Unintended Consequences
-[What customers worry might go wrong]
-
-### Partner/Supplier Perspectives
-
-#### External Impact Assessment
-[How the problem affects external partners]
-
-#### Collaboration Requirements
-[What partners would need to support the solution]
-
-#### Mutual Benefits
-[How partners might benefit from the solution]
-
-#### Potential Conflicts
-[Where partner interests might conflict with the solution]
-
-## Cross-Stakeholder Analysis
-
-### Consensus Areas
-#### Strong Agreement Across Groups
-[What all stakeholder groups agree on]
-
-#### Problem Priority Consensus
-[Whether all groups see this as important]
-
-#### Solution Element Agreement
-[Which aspects of the solution have broad support]
-
-### Divergent Views
-#### Conflicting Priorities
-[Where different stakeholders have different priorities]
-
-#### Implementation Disagreements
-[Where stakeholders disagree about how to implement]
-
-#### Resource Allocation Conflicts
-[Where stakeholders want resources used differently]
-
-### Stakeholder-Specific Needs
-#### Unique Requirements by Group
-[What each stakeholder group specifically needs]
-
-#### Conflicting Requirements
-[Where stakeholder needs conflict with each other]
-
-## Implementation Insights from Stakeholders
-
-### Critical Success Factors
-[What stakeholders consistently identify as crucial for success]
-
-### Common Barriers
-[What obstacles stakeholders consistently identify]
-
-### Resource Requirements
-[What resources stakeholders say are essential]
-
-### Communication Needs
-[What information stakeholders need throughout implementation]
-
-### Timeline Expectations
-[What stakeholders consider realistic timing]
-
-## Stakeholder Engagement Recommendations
-
-### High-Priority Stakeholders for Ongoing Engagement
-[Which stakeholders should be most involved in implementation]
-
-### Resistance Management Strategy
-[How to address stakeholders who showed resistance]
-
-### Communication Strategy
-[How to keep stakeholders informed and engaged]
-
-### Feedback Mechanisms
-[How to continue gathering stakeholder input during implementation]
-
-## Stakeholder Evidence Synthesis
-
-### Strongest Stakeholder Support
-[What aspects of your problem/solution have strongest stakeholder backing]
-
-### Greatest Stakeholder Concerns
-[What stakeholders are most worried about]
-
-### Stakeholder-Driven Modifications
-[How stakeholder feedback should modify your approach]
-
-### Implementation Priorities Based on Stakeholder Input
-[What stakeholders say should be prioritized in implementation]
-
----
-INSTRUCTIONS:
-1. Include both quantitative survey data and qualitative insights from interviews
-2. Look for patterns across different stakeholder groups
-3. Pay attention to both supportive and resistant feedback  
-4. Document specific concerns and suggestions for addressing them
-5. Use stakeholder input to refine your implementation approach

@@ -1,223 +1,144 @@
-# Practitioner Evidence: Expert Insights & Professional Experience
-# Document the insights gathered from practitioners and case studies
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Evidence Summary Overview
-**Total Practitioners Consulted:** [Number]
-**Interview Completion Rate:** [Percentage of attempted interviews completed]
-**Geographic Scope:** [Where practitioners are located]
-**Experience Range:** [Years of experience represented]
-**Industry Coverage:** [Sectors/industries represented]
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Practitioner Evidence: Sources</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Document multiple practitioner perspectives on cross-functional communication</p>
+</div>
 
-## Expert Interview 1
-### Practitioner Profile
-- **Name/Title:** [Name and current role]
-- **Organization:** [Current company/organization]
-- **Experience:** [Years in field, relevant background]
-- **Industry Focus:** [Primary industry/sector experience]
-- **Relevance:** [Why this person's insights matter]
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    
+    <!-- Managers Section -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Managers (3)</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <!-- Manager 1 -->
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #a68b5b;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Manager 1: Task Dependencies</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">When cross-functional teams don't communicate clearly, task dependencies get delayed. A single misunderstood update can stall an entire workflow, especially when teams rely on each other's outputs.</p>
+            </div>
+            
+            <!-- Manager 2 -->
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #a68b5b;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Manager 2: Repeated Work</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Poor communication causes repeated work. Teams often have to redo tasks because they didn't receive updated information from other departments, which increases frustration and reduces overall productivity.</p>
+            </div>
+            
+            <!-- Manager 3 -->
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0; border-left: 3px solid #a68b5b;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Manager 3: Misaligned Priorities</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Lack of communication leads to misaligned priorities. Teams assume different deadlines or expectations, causing conflict and longer project completion times.</p>
+            </div>
+        </div>
+    </div>
 
-### Problem-Related Insights
-#### Problem Recognition
-- **Experience with This Problem:** [Have they encountered your problem?]
-- **Problem Frequency:** [How common is this in their experience?]
-- **Problem Manifestation:** [How does this problem typically show up?]
-- **Root Causes:** [What do they see as underlying causes?]
+    <!-- Employees Section -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Employees (12 total, across 3 teams)</h2>
+        </div>
+        
+        <!-- Employee Table -->
+        <div style="background: #fafaf8; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <table style="width: 100%; border-collapse: collapse; font-size: 1.05em;">
+                <thead>
+                    <tr style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white;">
+                        <th style="padding: 6px; text-align: left; border: 1px solid #4A3429; font-weight: 600;">Team</th>
+                        <th style="padding: 6px; text-align: left; border: 1px solid #4A3429; font-weight: 600;">Key Insights</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="background: #f5ebe0;">
+                        <td style="padding: 6px; border: 1px solid #d4c4a8; vertical-align: top; font-weight: 600; color: #4A3429;">Team A<br>(4 employees)</td>
+                        <td style="padding: 6px; border: 1px solid #d4c4a8;">
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Difficulty knowing who owns what task when communication breaks down</p>
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Unclear communication results in duplicated tasks</p>
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Frustrated when they find out late that a dependency has changed</p>
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3;">• Productivity slows because they constantly chase updates</p>
+                        </td>
+                    </tr>
+                    <tr style="background: #fafaf8;">
+                        <td style="padding: 6px; border: 1px solid #d4c4a8; vertical-align: top; font-weight: 600; color: #4A3429;">Team B<br>(4 employees)</td>
+                        <td style="padding: 6px; border: 1px solid #d4c4a8;">
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Often receive incomplete information from other functions</p>
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Projects drag on because of extra time clarifying instructions</p>
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Less motivated when miscommunication leads to avoidable mistakes</p>
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3;">• Communication gaps create unnecessary tension between departments</p>
+                        </td>
+                    </tr>
+                    <tr style="background: #f5ebe0;">
+                        <td style="padding: 6px; border: 1px solid #d4c4a8; vertical-align: top; font-weight: 600; color: #4A3429;">Team C<br>(4 employees)</td>
+                        <td style="padding: 6px; border: 1px solid #d4c4a8;">
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Meetings between functions are infrequent or unstructured</p>
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Inconsistent communication causes confusion about project status</p>
+                            <p style="margin: 0 0 4px 0; color: #2c2c2c; line-height: 1.3;">• Delays often come from waiting for information from another team</p>
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3;">• Better communication tools/processes would speed up project cycles</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
 
-#### Problem Impact
-- **Organizational Consequences:** [What happens when this problem isn't addressed?]
-- **Stakeholder Effects:** [Who gets hurt most by this problem?]
-- **Long-term Implications:** [What are the lasting effects?]
+    <!-- Synthesized Insights Section -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Synthesize Insights Related to Your Problem</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #c8b99c; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <h3 style="margin: 0 0 2px 0; color: #4A3429; font-size: 1.2em; font-weight: 600;">What Wisdom Do Practitioners Offer?</h3>
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0;">
+                <p style="margin: 0 0 2px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Shared Message Across Managers and Employees:</strong></p>
+                <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                    <li style="margin: 0;">Communication is the backbone of cross-functional collaboration</li>
+                    <li style="margin: 0;">When communication is unclear, late, or inconsistent, teams lose time, repeat work, and become frustrated</li>
+                    <li style="margin: 0;">Clear ownership, frequent updates, and structured communication processes are critical to keeping projects on track</li>
+                    <li style="margin: 0;">Miscommunication is not just an interpersonal issue—it directly affects workflow timing, motivation, and the quality of work</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 4px; border-radius: 6px; margin: 1px 0;">
+            <h3 style="margin: 0 0 2px 0; color: #4A3429; font-size: 1.2em; font-weight: 600;">How Does Experience Inform Your X → Y Hypothesis?</h3>
+            
+            <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 1px 0;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Your Hypothesis:</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">If cross-functional teams have issues communicating to each other <strong>(X)</strong>, it can slow down productivity, extend the time needed to complete projects and tasks, and create frustration in the workplace <strong>(Y)</strong>.</p>
+            </div>
+            
+            <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; margin: 1px 0;">
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Practitioner Evidence Supporting Hypothesis:</p>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3px;">
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Slower Productivity:</strong> Managers observed delays, misaligned priorities, and rework</p>
+                    </div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Extended Timelines:</strong> Employees confirmed duplicated work, unclear responsibilities, and avoidable delays</p>
+                    </div>
+                    <div style="background: white; padding: 4px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Workplace Frustration:</strong> Frustration consistently came up as a theme across all three teams</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-### Solution-Related Insights
-#### Recommended Approaches
-- **Preferred Solutions:** [What approaches do they recommend?]
-- **Successful Examples:** [What have they seen work?]
-- **Failed Attempts:** [What approaches haven't worked?]
-- **Best Practices:** [What are the key success factors?]
+    <!-- Conclusion -->
+    <div style="margin-bottom: 0;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Conclusion</h2>
+        </div>
+        
+        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); padding: 5px; border-radius: 4px; margin: 1px 0;">
+            <p style="margin: 0; color: white; line-height: 1.3; font-size: 1.1em; font-weight: 500;">The collected practitioner insights <strong>strongly support your X→Y hypothesis</strong>. Their real-world experiences demonstrate that communication problems directly produce the negative outcomes you predicted: reduced productivity, longer project timelines, and increased workplace frustration.</p>
+        </div>
+    </div>
 
-#### Implementation Guidance
-- **Critical Success Factors:** [What must go right for solutions to work?]
-- **Common Pitfalls:** [What typically goes wrong?]
-- **Resource Requirements:** [What resources are essential?]
-- **Timeline Expectations:** [How long does change typically take?]
+</div>
 
-### Specific Recommendations for Your Situation
-[What specific advice did they give for your context?]
-
----
-
-## Expert Interview 2
-### Practitioner Profile
-- **Name/Title:** [Name and current role]
-- **Organization:** [Current company/organization]
-- **Experience:** [Years in field, relevant background]
-- **Industry Focus:** [Primary industry/sector experience]
-- **Relevance:** [Why this person's insights matter]
-
-### Problem-Related Insights
-#### Problem Recognition
-- **Experience with This Problem:** [Have they encountered your problem?]
-- **Problem Frequency:** [How common is this in their experience?]
-- **Problem Manifestation:** [How does this problem typically show up?]
-- **Root Causes:** [What do they see as underlying causes?]
-
-#### Problem Impact
-- **Organizational Consequences:** [What happens when this problem isn't addressed?]
-- **Stakeholder Effects:** [Who gets hurt most by this problem?]
-- **Long-term Implications:** [What are the lasting effects?]
-
-### Solution-Related Insights
-#### Recommended Approaches
-- **Preferred Solutions:** [What approaches do they recommend?]
-- **Successful Examples:** [What have they seen work?]
-- **Failed Attempts:** [What approaches haven't worked?]
-- **Best Practices:** [What are the key success factors?]
-
-#### Implementation Guidance
-- **Critical Success Factors:** [What must go right for solutions to work?]
-- **Common Pitfalls:** [What typically goes wrong?]
-- **Resource Requirements:** [What resources are essential?]
-- **Timeline Expectations:** [How long does change typically take?]
-
-### Specific Recommendations for Your Situation
-[What specific advice did they give for your context?]
-
----
-
-## Expert Interview 3
-### Practitioner Profile
-- **Name/Title:** [Name and current role]
-- **Organization:** [Current company/organization]
-- **Experience:** [Years in field, relevant background]
-- **Industry Focus:** [Primary industry/sector experience]
-- **Relevance:** [Why this person's insights matter]
-
-### Problem-Related Insights
-[Follow same structure as above interviews]
-
-### Solution-Related Insights
-[Follow same structure as above interviews]
-
-### Specific Recommendations for Your Situation
-[What specific advice did they give for your context?]
-
----
-
-## Case Study 1: [Organization/Situation Name]
-### Case Background
-- **Organization:** [Company or organization name]
-- **Industry/Sector:** [Type of organization]
-- **Size/Scope:** [Number of employees, revenue, etc.]
-- **Timeframe:** [When this case occurred]
-- **Source:** [Where you found this case study]
-
-### Problem Context
-- **Problem Description:** [What problem did they face?]
-- **Problem Severity:** [How serious was the issue?]
-- **Stakeholders Affected:** [Who was impacted?]
-- **Triggering Events:** [What prompted action?]
-
-### Solution Approach
-- **Strategy Chosen:** [What approach did they take?]
-- **Implementation Process:** [How did they execute the solution?]
-- **Resources Invested:** [What did they put into the solution?]
-- **Timeline:** [How long did implementation take?]
-
-### Results and Outcomes
-- **Measurable Results:** [What quantitative outcomes were achieved?]
-- **Qualitative Improvements:** [What qualitative changes occurred?]
-- **Stakeholder Reactions:** [How did different groups respond?]
-- **Unintended Consequences:** [Any unexpected results?]
-
-### Lessons Learned
-- **Success Factors:** [What made this solution work?]
-- **Challenges Faced:** [What difficulties were encountered?]
-- **Would Do Differently:** [What would they change?]
-- **Advice for Others:** [What guidance would they offer?]
-
-### Relevance to Your Situation
-- **Similarities:** [How is this case similar to your context?]
-- **Differences:** [How is this case different from your context?]
-- **Applicable Insights:** [What can you learn from this case?]
-
----
-
-## Case Study 2: [Organization/Situation Name]
-[Follow same structure as Case Study 1]
-
----
-
-## Case Study 3: [Organization/Situation Name]
-[Follow same structure as Case Study 1]
-
----
-
-## Cross-Expert Analysis
-
-### Consensus Views
-#### About the Problem
-[What do multiple practitioners agree on regarding your problem?]
-
-#### About Solutions
-[What common recommendations emerge across practitioners?]
-
-#### About Implementation
-[What shared implementation advice do you hear?]
-
-### Divergent Perspectives
-#### Disagreements
-[Where do practitioners disagree?]
-
-#### Contextual Differences
-[How do different contexts lead to different recommendations?]
-
-#### Trade-offs
-[What different priorities or trade-offs do practitioners emphasize?]
-
-## Practical Insights
-
-### Industry-Specific Considerations
-[What insights are unique to your industry or sector?]
-
-### Size/Scale Considerations
-[How do organizational size factors affect recommendations?]
-
-### Cultural/Geographic Factors
-[How do location or culture influence practitioner recommendations?]
-
-## Implementation Wisdom
-
-### Critical Success Factors (Across All Sources)
-[What factors do practitioners consistently identify as crucial?]
-
-### Common Failure Points
-[What do practitioners warn against?]
-
-### Resource Requirements
-[What resources do practitioners say are essential?]
-
-### Timeline Expectations
-[What realistic timeframes do practitioners suggest?]
-
-## Practitioner-Based Recommendations
-
-### Immediate Actions
-[What should you do first based on practitioner advice?]
-
-### Medium-term Strategy
-[What should your overall approach be?]
-
-### Long-term Considerations
-[What should you plan for in the longer term?]
-
-### Context-Specific Adaptations
-[How should you adapt general advice to your specific situation?]
-
----
-INSTRUCTIONS:
-1. Include at least 3 practitioner interviews and 2-3 relevant case studies
-2. Focus on actionable insights, not just general opinions
-3. Look for patterns across different practitioners' experiences
-4. Document both successes and failures they've observed
-5. Connect their insights to your specific problem and context
-6. Be prepared to follow up with clarifying questions
+</div>

@@ -1,200 +1,149 @@
-# Practitioner Evidence: Credibility & Relevance Assessment
-# Evaluate the trustworthiness and applicability of practitioner insights
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Overall Credibility Assessment
-**Overall Rating:** [High/Medium/Low]
-**Confidence in Recommendations:** [High/Medium/Low]
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Practitioner Evidence: Critical Appraisal</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Evaluate credibility and applicability of practitioner insights</p>
+</div>
 
-## Individual Practitioner Credibility
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    
+    <!-- Credibility and Expertise -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Evaluate Credibility and Expertise of Practitioners</h2>
+        </div>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 3px;">
+            <!-- Managers -->
+            <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 4px; border-radius: 6px;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Managers (3)</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">The three managers interviewed have direct responsibility for cross-functional coordination and project delivery. Their insights are credible because they regularly oversee team communication, workflows, and performance metrics. Their experience gives them <strong>high expertise</strong> in identifying how communication affects productivity and timelines.</p>
+            </div>
+            
+            <!-- Employees -->
+            <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 4px; border-radius: 6px;">
+                <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">Employees (12 across 3 teams)</p>
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">These employees work on the front line of cross-functional collaboration. Their credibility comes from daily exposure to communication challenges, task handoffs, and workflow delays. They provide valuable <strong>ground-level evidence</strong> about how communication problems actually play out in day-to-day work.</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Identify Potential Biases - DROPDOWN -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: #fafaf8; border-left: 4px solid #a68b5b; padding: 4px; border-radius: 6px;">
+            <details style="margin: 0;">
+                <summary style="cursor: pointer; color: #4A3429; font-size: 1.35em; font-weight: 600; padding: 4px 8px; background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); border-radius: 6px; list-style: none; display: flex; align-items: center; user-select: none;">
+                    <span style="margin-right: 6px; font-size: 0.7em; transition: transform 0.2s ease;">▶</span>
+                    Identify Potential Biases (click to see dropdown menu)
+                </summary>
+                
+                <div style="margin-top: 2px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 3px;">
+                    <!-- Selection Bias -->
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">⚠️ Selection Bias</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Only three teams were included, which may not represent the experiences of all teams in the organization. Teams with strong communication or different structures were not included, so the sample may overemphasize communication problems.</p>
+                    </div>
+                    
+                    <!-- Response Bias -->
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">⚠️ Response Bias</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Employees may over-report frustration or delays due to dissatisfaction, or managers may present issues in a way that protects their leadership image.</p>
+                    </div>
+                    
+                    <!-- Confirmation Bias -->
+                    <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                        <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">⚠️ Confirmation Bias</p>
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">Since the research question focuses on communication problems, participants may be unintentionally primed to think of negative examples.</p>
+                    </div>
+                </div>
+            </details>
+        </div>
+    </div>
+    
+    <!-- Assess Applicability -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Assess Applicability to Your Context</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 4px; border-radius: 6px;">
+            <p style="margin: 0 0 2px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">The evidence gathered is <strong>highly applicable</strong> to your context because it directly relates to your X→Y hypothesis:</p>
+            
+            <div style="background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); padding: 4px; border-radius: 4px; margin: 2px 0;">
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em; font-style: italic;"><strong>Hypothesis:</strong> If cross-functional teams have issues communicating to each other, it can slow down productivity, take longer to complete projects and tasks, and create frustration.</p>
+            </div>
+            
+            <p style="margin: 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">The practitioners' experiences confirm all parts of the hypothesis:</p>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 3px;">
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">✓ Reported <strong>slowdowns in productivity</strong> due to unclear or delayed communication</p>
+                </div>
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">✓ Described <strong>longer project timelines</strong> because of rework, duplicated tasks, and waiting</p>
+                </div>
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">✓ Consistently expressed <strong>frustration</strong> at managerial and employee levels</p>
+                </div>
+            </div>
+            
+            <div style="background: white; padding: 4px; border-radius: 4px; margin: 2px 0;">
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Conclusion:</strong> The insights align closely with the real-world behaviors you are studying.</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Confidence Level -->
+    <div style="margin-bottom: 4px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">Confidence Level in This Evidence</h2>
+        </div>
+        
+        <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 4px; border-radius: 6px;">
+            <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 5px 8px; border-radius: 4px; margin: 1px 0; text-align: center;">
+                <p style="margin: 0; font-size: 1.25em; font-weight: 700;">Moderate to High Confidence</p>
+            </div>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 3px; margin: 2px 0;">
+                <!-- Reasons FOR Confidence -->
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">✓ Reasons for Confidence:</p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;">Evidence is consistent across multiple roles (managers + employees)</li>
+                        <li style="margin: 0;">Three separate teams reported similar communication-related problems, strengthening reliability</li>
+                        <li style="margin: 0;">Observations directly support the hypothesized relationship (X → Y)</li>
+                    </ul>
+                </div>
+                
+                <!-- Reasons LIMITING Confidence -->
+                <div style="background: #f5ebe0; padding: 4px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">⚠️ Reasons Confidence is Not "Very High":</p>
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                        <li style="margin: 0;">Limited sample size (12 employees, 3 teams)</li>
+                        <li style="margin: 0;">Possible selection and response bias</li>
+                        <li style="margin: 0;">Teams outside the sample may have different communication dynamics</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Overall Summary -->
+    <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 5px; border-radius: 4px; margin: 1px 0;">
+        <p style="margin: 0; line-height: 1.3; font-size: 1.1em; font-weight: 500;"><strong>Overall:</strong> The practitioner evidence is credible and applicable, giving you a <strong>moderate-to-high level of confidence</strong> that communication issues in cross-functional teams do lead to reduced productivity, longer project completion, and higher frustration.</p>
+    </div>
 
-### Expert 1: [Name/Role]
-#### Professional Credibility
-- **Years of Relevant Experience:** [Number and assessment]
-- **Industry Reputation:** [Known expert/Respected professional/New practitioner]
-- **Track Record:** [Documented successes/Mixed results/Limited evidence]
-- **Current Role Relevance:** [Highly relevant/Somewhat relevant/Limited relevance]
+</div>
 
-#### Expertise Assessment
-- **Direct Problem Experience:** [Extensive/Moderate/Limited]
-- **Solution Implementation Experience:** [Extensive/Moderate/Limited]
-- **Range of Context Experience:** [Multiple organizations/Single context/Limited exposure]
-- **Recent vs. Historical Experience:** [Current/Recent/Dated]
+</div>
 
-#### Bias Assessment
-- **Financial Interests:** [Potential conflicts of interest?]
-- **Organizational Bias:** [Tied to specific approach/company?]
-- **Personal Investment:** [Emotionally invested in certain solutions?]
-- **Transparency:** [Open about limitations/Overly confident/Defensive]
-
----
-
-### Expert 2: [Name/Role]
-[Follow same structure as Expert 1]
-
----
-
-### Expert 3: [Name/Role]
-[Follow same structure as Expert 1]
-
-## Case Study Credibility
-
-### Case Study 1: [Organization Name]
-#### Source Credibility
-- **Information Source:** [Company publication/Academic case study/News report/Other]
-- **Source Reliability:** [Highly reliable/Moderately reliable/Limited reliability]
-- **Information Completeness:** [Comprehensive/Partial/Limited detail]
-- **Objectivity:** [Objective reporting/Some bias/Heavily biased]
-
-#### Context Relevance
-- **Industry Similarity:** [Same industry/Related industry/Different industry]
-- **Organizational Size:** [Similar size/Somewhat similar/Very different]
-- **Geographic Context:** [Same region/Similar region/Different region]
-- **Time Relevance:** [Recent/Somewhat recent/Dated]
-
-#### Outcome Verification
-- **Results Documentation:** [Well documented/Partially documented/Claims only]
-- **Independent Verification:** [Third-party confirmation/Self-reported only]
-- **Long-term Follow-up:** [Long-term results known/Short-term only]
-
----
-
-### Case Study 2: [Organization Name]
-[Follow same structure as Case Study 1]
-
-## Evidence Quality Assessment
-
-### Consistency Across Sources
-#### Consistent Messages
-[What recommendations appear across multiple practitioners?]
-
-#### Inconsistent or Conflicting Advice
-[Where do practitioners disagree?]
-
-#### Pattern Recognition
-[What patterns emerge across different contexts?]
-
-### Depth and Specificity
-#### Detailed vs. General Advice
-[How specific and actionable are the recommendations?]
-
-#### Evidence-Based vs. Opinion-Based
-[Are recommendations backed by specific examples and data?]
-
-#### Implementation Detail
-[How much practical implementation guidance is provided?]
-
-## Context Relevance Assessment
-
-### Practitioner Context Match
-#### Industry Alignment
-- **Perfect Match:** [Practitioners from your exact industry]
-- **Close Match:** [Practitioners from related industries]
-- **Different but Relevant:** [Practitioners from different but applicable contexts]
-
-#### Organizational Context
-- **Size Similarity:** [Similar sized organizations in their experience]
-- **Culture Similarity:** [Similar organizational cultures]
-- **Resource Similarity:** [Similar resource constraints]
-
-#### Problem Similarity
-- **Identical Problems:** [Exact same problem encountered]
-- **Similar Problems:** [Related but different problems]
-- **Analogous Problems:** [Different problems with similar solutions]
-
-### Geographic and Cultural Factors
-#### Cultural Relevance
-[How do cultural differences affect applicability?]
-
-#### Regulatory Environment
-[How do different regulatory contexts affect recommendations?]
-
-#### Market Conditions
-[How do different market conditions affect relevance?]
-
-## Bias and Limitation Analysis
-
-### Potential Biases
-
-#### Selection Bias
-[Are you only hearing from certain types of practitioners?]
-
-#### Survival Bias
-[Are you only hearing success stories?]
-
-#### Confirmation Bias
-[Are practitioners telling you what you want to hear?]
-
-#### Recency Bias
-[Are recent experiences overweighted?]
-
-### Information Limitations
-
-#### Sample Size
-[Are you hearing from enough practitioners?]
-
-#### Depth vs. Breadth
-[Do you have deep insights from few sources or shallow insights from many?]
-
-#### Missing Perspectives
-[What practitioner perspectives are missing?]
-
-#### Context Gaps
-[What contexts are not represented in your evidence?]
-
-## Reliability Assessment
-
-### Internal Consistency
-[Are individual practitioners internally consistent in their recommendations?]
-
-### Cross-Validation
-[Do recommendations align with other evidence sources?]
-
-### Logical Coherence
-[Do the recommendations make logical sense given the problem?]
-
-### Practical Feasibility
-[Are the recommendations actually implementable in your context?]
-
-## Confidence Levels
-
-### High Confidence Recommendations
-[What advice do you have high confidence in based on practitioner evidence?]
-
-### Medium Confidence Recommendations
-[What advice seems reasonable but has some uncertainty?]
-
-### Low Confidence or Conflicting Areas
-[What areas have conflicting advice or low confidence?]
-
-## Evidence Gaps and Limitations
-
-### Missing Practitioner Perspectives
-[What types of practitioners would strengthen your evidence?]
-
-### Context Limitations
-[How do context differences limit generalizability?]
-
-### Depth Limitations
-[Where do you need more detailed practitioner insights?]
-
-### Temporal Limitations
-[How do timing factors affect the relevance of practitioner advice?]
-
-## Integration with Other Evidence Types
-
-### Alignment with Scientific Evidence
-[How well does practitioner evidence align with research?]
-
-### Practical vs. Theoretical
-[Where does practitioner wisdom add value beyond research?]
-
-### Implementation Reality Check
-[How do practitioners help you understand real-world constraints?]
-
----
-INSTRUCTIONS:
-1. Be honest about limitations - don't oversell weak practitioner evidence
-2. Consider both the credibility of sources and relevance to your context
-3. Look for patterns and consistency across multiple practitioners
-4. Acknowledge biases and gaps in your practitioner evidence
-5. Use this assessment to weight practitioner recommendations appropriately
+<style>
+details[open] summary span:first-child {
+    transform: rotate(90deg);
+}
+details summary::-webkit-details-marker {
+    display: none;
+}
+</style>

@@ -1,167 +1,336 @@
-# Organizational Evidence: Internal Data Collection Strategy
-# Document your approach to gathering internal organizational evidence
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Internal Evidence Goals
-**Primary Goal:** [What internal data do you need about your problem?]
-**Secondary Goal:** [What internal data do you need about solution feasibility?]
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">Organizational Evidence: Methods</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Document approach to gathering internal organizational evidence</p>
+</div>
 
-## Available Data Sources
+<!-- Main Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    
+    <!-- ACQUIRE Section -->
+    <div style="margin-bottom: 2px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">ACQUIRE: Data Collection Strategy</h2>
+        </div>
+        
+        <!-- Professional Data Repository -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(107,78,61,0.2);">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">✅ Professional Data Repository</h3>
+            </div>
+            
+            <div style="background: #fafaf8; border-left: 4px solid #6B4E3D; padding: 4px; border-radius: 6px; margin: 1px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+                <details open style="margin: 1px 0;">
+                    <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 3px; background: linear-gradient(135deg, #e8dcc8 0%, #d4c4a8 100%); border-radius: 4px; margin-bottom: 2px;">
+                        <span style="display: inline-block; margin-right: 4px;">▼</span>
+                        3 Government Data Sources
+                    </summary>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 3px; margin: 2px 0;">
+                    <!-- BLS Data -->
+                    <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 5px; border-radius: 6px; border: 2px solid #8b7355; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.2s;">
+                        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #8b7355 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px; text-align: center;">
+                            <p style="margin: 0; font-weight: 700; font-size: 1.15em;">📊 BLS OEWS</p>
+                        </div>
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Bureau of Labor Statistics</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Dataset:</strong> Occupational Employment & Wage Statistics</p>
+                        <div style="background: #d4c4a8; padding: 2px 4px; border-radius: 3px; margin: 1px 0;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 0.95em;"><strong>🔗 URL:</strong> <a href="https://www.bls.gov/oes/" style="color: #4A3429; text-decoration: underline;">bls.gov/oes</a></p>
+                        </div>
+                        <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>📌 Relevance:</strong> Employment data for financial analysts, operations managers, team leads in financial services</p>
+                    </div>
+                    
+                    <!-- BLS Productivity Data -->
+                    <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 5px; border-radius: 6px; border: 2px solid #a68b5b; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.2s;">
+                        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px; text-align: center;">
+                            <p style="margin: 0; font-weight: 700; font-size: 1.15em;">📈 BLS Productivity</p>
+                        </div>
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Bureau of Labor Statistics</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Dataset:</strong> Major Sector Productivity & Costs</p>
+                        <div style="background: #d4c4a8; padding: 2px 4px; border-radius: 3px; margin: 1px 0;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 0.95em;"><strong>🔗 URL:</strong> <a href="https://www.bls.gov/lpc/" style="color: #4A3429; text-decoration: underline;">bls.gov/lpc</a></p>
+                        </div>
+                        <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>📌 Relevance:</strong> Industry benchmarks for labor productivity in financial services (NAICS 52)</p>
+                    </div>
+                    
+                    <!-- USAFacts -->
+                    <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 5px; border-radius: 6px; border: 2px solid #c8b99c; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.2s;">
+                        <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px; text-align: center;">
+                            <p style="margin: 0; font-weight: 700; font-size: 1.15em;">🇺🇸 USAFacts</p>
+                        </div>
+                        <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.05em;">Workforce & Economic Data</p>
+                        <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Dataset:</strong> Workforce Data Explorer</p>
+                        <div style="background: #d4c4a8; padding: 2px 4px; border-radius: 3px; margin: 1px 0;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 0.95em;"><strong>🔗 URL:</strong> <a href="https://usafacts.org/data/" style="color: #4A3429; text-decoration: underline;">usafacts.org/data</a></p>
+                        </div>
+                        <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>📌 Relevance:</strong> Employment trends and workplace statistics for cross-functional team structures</p>
+                    </div>
+                </div>
+                </details>
+            </div>
+        </div>
+        
+        <!-- Logic Model -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(107,78,61,0.2);">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">🔄 Logic Model: X → M → Y</h3>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #fafaf8 0%, #f5ebe0 100%); padding: 5px; border-radius: 8px; margin: 1px 0; border: 2px solid #a68b5b; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
+                <!-- Visual Logic Model -->
+                <div style="display: flex; align-items: center; justify-content: space-around; gap: 3px; margin: 3px 0; flex-wrap: wrap;">
+                    <!-- X (Independent Variable) -->
+                    <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 8px 12px; border-radius: 10px; flex: 1; min-width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(107,78,61,0.3); border: 3px solid #8b7355;">
+                        <p style="margin: 0 0 1px 0; font-size: 0.85em; opacity: 0.9; letter-spacing: 1px; font-weight: 600;">X (INDEPENDENT)</p>
+                        <div style="background: rgba(255,255,255,0.15); padding: 2px; border-radius: 4px; margin: 2px 0;">
+                            <p style="margin: 0; font-size: 1.25em; font-weight: 700; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Poor Cross-Functional Communication</p>
+                        </div>
+                        <p style="margin: 2px 0 0 0; font-size: 0.95em; line-height: 1.3; font-style: italic;">Unclear messages, delayed updates, inconsistent info sharing</p>
+                    </div>
+                    
+                    <div style="color: #6B4E3D; font-size: 2.5em; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">➜</div>
+                    
+                    <!-- M (Mediator) -->
+                    <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 8px 12px; border-radius: 10px; flex: 1; min-width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(139,115,85,0.3); border: 3px solid #c8b99c;">
+                        <p style="margin: 0 0 1px 0; font-size: 0.85em; opacity: 0.9; letter-spacing: 1px; font-weight: 600;">M (MEDIATOR)</p>
+                        <div style="background: rgba(255,255,255,0.15); padding: 2px; border-radius: 4px; margin: 2px 0;">
+                            <p style="margin: 0; font-size: 1.25em; font-weight: 700; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Workflow Disruptions</p>
+                        </div>
+                        <p style="margin: 2px 0 0 0; font-size: 0.95em; line-height: 1.3; font-style: italic;">Task rework, duplicated efforts, waiting, misaligned priorities</p>
+                    </div>
+                    
+                    <div style="color: #6B4E3D; font-size: 2.5em; font-weight: 700; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">➜</div>
+                    
+                    <!-- Y (Dependent Variable) -->
+                    <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 8px 12px; border-radius: 10px; flex: 1; min-width: 200px; text-align: center; box-shadow: 0 4px 8px rgba(166,139,91,0.3); border: 3px solid #d4c4a8;">
+                        <p style="margin: 0 0 1px 0; font-size: 0.85em; opacity: 0.9; letter-spacing: 1px; font-weight: 600;">Y (DEPENDENT)</p>
+                        <div style="background: rgba(255,255,255,0.15); padding: 2px; border-radius: 4px; margin: 2px 0;">
+                            <p style="margin: 0; font-size: 1.25em; font-weight: 700; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">Reduced Outcomes</p>
+                        </div>
+                        <p style="margin: 2px 0 0 0; font-size: 0.95em; line-height: 1.3; font-style: italic;">Lower productivity, extended timelines, increased frustration</p>
+                    </div>
+                </div>
+                
+                <!-- Logic Model Explanation -->
+                <div style="background: linear-gradient(135deg, #e8dcc8 0%, #f5ebe0 100%); padding: 5px; border-radius: 6px; margin: 2px 0; border-left: 4px solid #6B4E3D; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                    <p style="margin: 0 0 1px 0; color: #4A3429; font-weight: 700; font-size: 1.15em;">💡 Model Explanation:</p>
+                    <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;"><strong>X (Communication Issues)</strong> leads to <strong>M (Workflow Disruptions)</strong>, which then causes <strong>Y (Negative Outcomes)</strong>. This mediation model shows that communication problems don't directly reduce productivity—they first create operational disruptions that then impact performance metrics.</p>
+                </div>
+                
+                <!-- Measurable Variables -->
+                <details open style="margin: 2px 0;">
+                    <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 3px; background: linear-gradient(135deg, #d4c4a8 0%, #e8dcc8 100%); border-radius: 4px;">
+                        <span style="display: inline-block; margin-right: 4px;">▼</span>
+                        How We Measure Each Variable
+                    </summary>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 3px; margin: 2px 0;">
+                    <div style="background: white; padding: 5px; border-radius: 6px; border: 2px solid #6B4E3D; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+                        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #8b7355 100%); color: white; padding: 2px 4px; border-radius: 3px; margin-bottom: 2px; text-align: center;">
+                            <p style="margin: 0; font-weight: 700; font-size: 0.95em;">X MEASUREMENT</p>
+                        </div>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;">Communication frequency surveys</li>
+                            <li style="margin: 0;">Information clarity ratings</li>
+                            <li style="margin: 0;">Response time metrics</li>
+                        </ul>
+                    </div>
+                    <div style="background: white; padding: 5px; border-radius: 6px; border: 2px solid #8b7355; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+                        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 2px 4px; border-radius: 3px; margin-bottom: 2px; text-align: center;">
+                            <p style="margin: 0; font-weight: 700; font-size: 0.95em;">M MEASUREMENT</p>
+                        </div>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;">Task rework frequency</li>
+                            <li style="margin: 0;">Handoff delays tracked</li>
+                            <li style="margin: 0;">Duplicate work incidents</li>
+                        </ul>
+                    </div>
+                    <div style="background: white; padding: 5px; border-radius: 6px; border: 2px solid #a68b5b; box-shadow: 0 2px 4px rgba(0,0,0,0.08);">
+                        <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 2px 4px; border-radius: 3px; margin-bottom: 2px; text-align: center;">
+                            <p style="margin: 0; font-weight: 700; font-size: 0.95em;">Y MEASUREMENT</p>
+                        </div>
+                        <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                            <li style="margin: 0;">Output per employee hour</li>
+                            <li style="margin: 0;">Project completion time</li>
+                            <li style="margin: 0;">Employee satisfaction scores</li>
+                        </ul>
+                    </div>
+                </div>
+                </details>
+            </div>
+        </div>
+        
+        <!-- AI-Assisted Dataset Discovery -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(107,78,61,0.2);">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">🤖 AI-Assisted Dataset Discovery</h3>
+            </div>
+            
+            <div style="background: linear-gradient(135deg, #fafaf8 0%, #f5ebe0 100%); border-left: 4px solid #a68b5b; padding: 5px; border-radius: 6px; margin: 1px 0; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
+                <details open style="margin: 1px 0;">
+                    <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 3px; background: linear-gradient(135deg, #e8dcc8 0%, #d4c4a8 100%); border-radius: 4px; margin-bottom: 2px;">
+                        <span style="display: inline-block; margin-right: 4px;">▼</span>
+                        AI Search Process & Benefits
+                    </summary>
+                
+                <div style="background: linear-gradient(135deg, #e8dcc8 0%, #f5ebe0 100%); padding: 5px; border-radius: 6px; margin: 2px 0; border: 2px dashed #8b7355;">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 700; font-size: 1.1em;">🔍 AI Tool Used: GitHub Copilot & ChatGPT</p>
+                    <div style="background: white; padding: 3px; border-radius: 4px; margin: 1px 0;">
+                        <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>💬 Search Query:</strong> <em>"Find reliable government datasets for workplace productivity, communication effectiveness, and team collaboration metrics in financial services sector"</em></p>
+                    </div>
+                </div>
+                
+                <div style="background: white; padding: 5px; border-radius: 6px; margin: 2px 0; border-left: 4px solid #6B4E3D; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+                    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 700; font-size: 1.1em;">📋 Discovery Process (4 Steps):</p>
+                    <div style="display: grid; gap: 2px;">
+                        <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 3px; border-radius: 4px; border-left: 3px solid #6B4E3D;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>1️⃣ Initial Query:</strong> Asked AI to identify trusted government data sources for productivity metrics</p>
+                        </div>
+                        <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 3px; border-radius: 4px; border-left: 3px solid #8b7355;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>2️⃣ Source Validation:</strong> AI recommended BLS, USAFacts, and World Bank as authoritative sources</p>
+                        </div>
+                        <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 3px; border-radius: 4px; border-left: 3px solid #a68b5b;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>3️⃣ Dataset Refinement:</strong> Narrowed to OEWS and Labor Productivity datasets specific to financial services (NAICS 52)</p>
+                        </div>
+                        <div style="background: linear-gradient(135deg, #f5ebe0 0%, #ffffff 100%); padding: 3px; border-radius: 4px; border-left: 3px solid #c8b99c;">
+                            <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>4️⃣ Access Verification:</strong> Confirmed all datasets are publicly accessible without login requirements</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div style="background: linear-gradient(135deg, #d4f4dd 0%, #a8e6c1 100%); padding: 4px; border-radius: 6px; margin: 2px 0; border: 2px solid #2d6a4f;">
+                    <p style="margin: 0 0 2px 0; color: #1b4332; font-weight: 700; font-size: 1.1em;">✅ AI Assistance Benefits:</p>
+                    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2px;">
+                        <div style="background: white; padding: 2px 4px; border-radius: 3px;">
+                            <p style="margin: 0; color: #1b4332; line-height: 1.3; font-size: 1.05em;">✓ Identified 3+ reliable government sources in minutes</p>
+                        </div>
+                        <div style="background: white; padding: 2px 4px; border-radius: 3px;">
+                            <p style="margin: 0; color: #1b4332; line-height: 1.3; font-size: 1.05em;">✓ Provided direct URLs to specific datasets</p>
+                        </div>
+                        <div style="background: white; padding: 2px 4px; border-radius: 3px;">
+                            <p style="margin: 0; color: #1b4332; line-height: 1.3; font-size: 1.05em;">✓ Explained relevance to cross-functional communication research</p>
+                        </div>
+                        <div style="background: white; padding: 2px 4px; border-radius: 3px;">
+                            <p style="margin: 0; color: #1b4332; line-height: 1.3; font-size: 1.05em;">✓ Suggested industry-specific filtering (NAICS codes)</p>
+                        </div>
+                    </div>
+                </div>
+                </details>
+            </div>
+        </div>
+        
+        <!-- Dataset URLs and Access Details -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(107,78,61,0.2);">
+                <h3 style="margin: 0; font-size: 1.2em; font-weight: 600;">🔗 Dataset URLs & Access Details</h3>
+            </div>
+            
+            <div style="background: #fafaf8; padding: 5px; border-radius: 6px; margin: 1px 0; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
+                <details open style="margin: 1px 0;">
+                    <summary style="cursor: pointer; color: #4A3429; font-weight: 600; font-size: 1.1em; padding: 3px; background: linear-gradient(135deg, #e8dcc8 0%, #d4c4a8 100%); border-radius: 4px; margin-bottom: 2px;">
+                        <span style="display: inline-block; margin-right: 4px;">▼</span>
+                        3 Complete Dataset Profiles
+                    </summary>
+                
+                <!-- Dataset 1 -->
+                <div style="background: linear-gradient(135deg, #ffffff 0%, #f5ebe0 100%); padding: 5px; border-radius: 6px; margin: 2px 0; border: 2px solid #6B4E3D; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <div style="display: grid; grid-template-columns: auto 1fr; gap: 6px; align-items: start;">
+                        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 6px; font-weight: 700; font-size: 1.3em; box-shadow: 0 2px 4px rgba(0,0,0,0.2); min-width: 45px; text-align: center;">1</div>
+                        <div>
+                            <div style="background: linear-gradient(135deg, #6B4E3D 0%, #8b7355 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                                <p style="margin: 0; font-weight: 700; font-size: 1.15em;">BLS Occupational Employment & Wage Statistics (OEWS)</p>
+                            </div>
+                            <div style="background: white; padding: 3px; border-radius: 4px; margin: 1px 0;">
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🌐 URL:</strong> <a href="https://www.bls.gov/oes/tables.htm" style="color: #6B4E3D; text-decoration: underline; font-weight: 600;">https://www.bls.gov/oes/tables.htm</a></p>
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🔓 Access:</strong> Public, no login required | Excel/CSV downloads available</p>
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🔄 Update Frequency:</strong> Annual (May release)</p>
+                                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>📊 Relevant Variables:</strong> Employment levels, occupational categories for financial analysts (13-2051), operations managers (11-1021)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Dataset 2 -->
+                <div style="background: linear-gradient(135deg, #ffffff 0%, #f5ebe0 100%); padding: 5px; border-radius: 6px; margin: 2px 0; border: 2px solid #8b7355; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <div style="display: grid; grid-template-columns: auto 1fr; gap: 6px; align-items: start;">
+                        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 6px 10px; border-radius: 6px; font-weight: 700; font-size: 1.3em; box-shadow: 0 2px 4px rgba(0,0,0,0.2); min-width: 45px; text-align: center;">2</div>
+                        <div>
+                            <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                                <p style="margin: 0; font-weight: 700; font-size: 1.15em;">BLS Labor Productivity & Costs (Major Sector)</p>
+                            </div>
+                            <div style="background: white; padding: 3px; border-radius: 4px; margin: 1px 0;">
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🌐 URL:</strong> <a href="https://www.bls.gov/lpc/data.htm" style="color: #6B4E3D; text-decoration: underline; font-weight: 600;">https://www.bls.gov/lpc/data.htm</a></p>
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🔓 Access:</strong> Public, no login required | Interactive data tool + downloadable series</p>
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🔄 Update Frequency:</strong> Quarterly</p>
+                                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>📊 Relevant Variables:</strong> Output per hour (productivity index), unit labor costs for financial activities sector (NAICS 52)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Dataset 3 -->
+                <div style="background: linear-gradient(135deg, #ffffff 0%, #f5ebe0 100%); padding: 5px; border-radius: 6px; margin: 2px 0; border: 2px solid #a68b5b; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                    <div style="display: grid; grid-template-columns: auto 1fr; gap: 6px; align-items: start;">
+                        <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 6px 10px; border-radius: 6px; font-weight: 700; font-size: 1.3em; box-shadow: 0 2px 4px rgba(0,0,0,0.2); min-width: 45px; text-align: center;">3</div>
+                        <div>
+                            <div style="background: linear-gradient(135deg, #a68b5b 0%, #c8b99c 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                                <p style="margin: 0; font-weight: 700; font-size: 1.15em;">USAFacts Workforce Data Explorer</p>
+                            </div>
+                            <div style="background: white; padding: 3px; border-radius: 4px; margin: 1px 0;">
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🌐 URL:</strong> <a href="https://usafacts.org/data/topics/economy/workforce/" style="color: #6B4E3D; text-decoration: underline; font-weight: 600;">https://usafacts.org/data/topics/economy/workforce/</a></p>
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🔓 Access:</strong> Public, no login required | CSV export available</p>
+                                <p style="margin: 0 0 1px 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>🔄 Update Frequency:</strong> Monthly (sourced from BLS data)</p>
+                                <p style="margin: 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>📊 Relevant Variables:</strong> Employment trends, workforce composition, industry-specific employment rates</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </details>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Internal Evidence Goals -->
+    <div style="margin-bottom: 2px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(107,78,61,0.2);">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">🎯 Internal Evidence Goals</h2>
+        </div>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 3px;">
+            <!-- Primary Goal -->
+            <div style="background: linear-gradient(135deg, #fafaf8 0%, #f5ebe0 100%); border-left: 4px solid #6B4E3D; padding: 5px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); border: 2px solid #6B4E3D;">
+                <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px; text-align: center;">
+                    <p style="margin: 0; font-weight: 700; font-size: 1.15em;">🎯 PRIMARY GOAL</p>
+                </div>
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">What internal data do you need about your problem?</p>
+                <div style="background: white; padding: 4px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                        <li style="margin: 1px 0;">📊 Current productivity metrics (output per employee, project completion rates)</li>
+                        <li style="margin: 1px 0;">💬 Communication patterns between cross-functional teams (frequency, clarity, response times)</li>
+                        <li style="margin: 1px 0;">⚠️ Documented incidents of workflow disruptions (rework, delays, duplicated tasks)</li>
+                        <li style="margin: 1px 0;">😊 Employee satisfaction and frustration levels related to team collaboration</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <!-- Secondary Goal -->
+            <div style="background: linear-gradient(135deg, #fafaf8 0%, #f5ebe0 100%); border-left: 4px solid #8b7355; padding: 5px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); border: 2px solid #8b7355;">
+                <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px; text-align: center;">
+                    <p style="margin: 0; font-weight: 700; font-size: 1.15em;">🔧 SECONDARY GOAL</p>
+                </div>
+                <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.1em;">What internal data do you need about solution feasibility?</p>
+                <div style="background: white; padding: 4px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.08);">
+                    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                        <li style="margin: 1px 0;">🛠️ Current communication tools and platforms in use</li>
+                        <li style="margin: 1px 0;">💰 Budget availability for new collaboration technologies or training</li>
+                        <li style="margin: 1px 0;">👥 Manager and employee openness to process changes</li>
+                        <li style="margin: 1px 0;">📈 Baseline data for measuring improvement (to compare post-intervention)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 
-### Performance Metrics/KPIs
-- **Financial Data:** [Revenue, costs, profitability metrics]
-- **Operational Data:** [Efficiency, productivity, quality metrics]
-- **Human Resources Data:** [Turnover, satisfaction, performance metrics]
-- **Customer Data:** [Satisfaction, retention, acquisition metrics]
-- **Other Relevant Metrics:** [Industry-specific measurements]
+</div>
 
-### Internal Systems
-- **CRM Systems:** [Customer relationship data]
-- **ERP Systems:** [Enterprise resource planning data]
-- **HR Information Systems:** [Employee data and metrics]
-- **Financial Systems:** [Accounting and financial data]
-- **Operations Systems:** [Production, service delivery data]
-
-### Reports and Documentation
-- **Regular Reports:** [Monthly, quarterly, annual reports]
-- **Survey Results:** [Employee, customer, stakeholder surveys]
-- **Audit Results:** [Internal and external audit findings]
-- **Assessment Reports:** [Performance reviews, process evaluations]
-- **Historical Studies:** [Previous internal research or analysis]
-
-## Data Collection Plan
-
-### Quantitative Data Collection
-#### Metrics to Collect
-[List specific metrics relevant to your problem and solution]
-
-**Problem-Related Metrics:**
-- Metric 1: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Current value: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Current value: [Number] - Data source: [Where to find it]
-
-**Solution-Related Metrics:**
-- Metric 1: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 2: [Name] - Baseline: [Number] - Data source: [Where to find it]
-- Metric 3: [Name] - Baseline: [Number] - Data source: [Where to find it]
-
-#### Time Period Analysis
-- **Historical Data Range:** [How far back will you look?]
-- **Trend Analysis Period:** [What timeframe for trend identification?]
-- **Seasonal Considerations:** [Any seasonal patterns to account for?]
-- **Baseline Period:** [What period represents "normal" operations?]
-
-### Qualitative Data Collection
-#### Internal Documents Review
-- **Policy Documents:** [Relevant policies and procedures]
-- **Meeting Minutes:** [Records of relevant discussions]
-- **Communication Records:** [Emails, memos, announcements]
-- **Project Reports:** [Previous initiative outcomes]
-
-#### Observational Data
-- **Process Observations:** [What processes can you observe?]
-- **Workflow Analysis:** [How work actually gets done]
-- **Communication Patterns:** [How information flows]
-- **Cultural Observations:** [Organizational behavior patterns]
-
-## Access and Permissions
-
-### Data Access Strategy
-#### Required Permissions
-- **Data Custodians:** [Who controls access to different data sources?]
-- **Approval Process:** [What approvals are needed?]
-- **Privacy Considerations:** [What privacy restrictions apply?]
-- **Confidentiality Requirements:** [What confidentiality agreements needed?]
-
-#### Contact Plan
-1. **Primary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
-
-2. **Secondary Contact:** [Name, role, contact information]
-   - **Data Sources:** [What data they control]
-   - **Approach:** [How you'll request access]
-
-### Ethical Considerations
-- **Employee Privacy:** [How will you protect individual privacy?]
-- **Data Security:** [How will you secure sensitive data?]
-- **Use Limitations:** [How will you limit use of internal data?]
-- **Reporting Boundaries:** [What can/cannot be shared externally?]
-
-## Data Analysis Plan
-
-### Baseline Establishment
-#### Pre-Problem Baselines
-[What did performance look like before the problem emerged?]
-
-#### Normal Operating Ranges
-[What constitutes normal vs. abnormal performance?]
-
-#### Benchmark Comparisons
-[How does performance compare to industry standards or internal targets?]
-
-### Problem Evidence Analysis
-#### Problem Indicators
-[What data would confirm the problem exists?]
-
-#### Problem Severity Measurement
-[How will you quantify the severity of the problem?]
-
-#### Root Cause Investigation
-[What data analysis might reveal underlying causes?]
-
-### Solution Feasibility Analysis
-#### Resource Assessment
-[What internal data shows resource availability for solutions?]
-
-#### Capability Assessment
-[What data shows organizational capability for change?]
-
-#### Risk Assessment
-[What internal data reveals potential implementation risks?]
-
-## Documentation Strategy
-
-### Data Collection Log
-[How will you track what data you collect and when?]
-
-### Analysis Documentation
-[How will you document your analysis process and findings?]
-
-### Quality Assurance
-[How will you ensure data accuracy and completeness?]
-
-### Version Control
-[How will you manage different versions of data and analysis?]
-
-## Expected Challenges
-
-### Data Availability
-[What data might not be available or accessible?]
-
-### Data Quality Issues
-[What data quality problems might you encounter?]
-
-### Access Barriers
-[What obstacles might prevent data access?]
-
-### Time Constraints
-[How might time limitations affect data collection?]
-
-## Backup Plans
-
-### Alternative Data Sources
-[What alternatives exist if primary sources aren't available?]
-
-### Proxy Measures
-[What substitute metrics could you use if ideal data isn't available?]
-
-### Simplified Analysis
-[What's the minimum viable organizational evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start with readily available data before pursuing hard-to-access information
-2. Be respectful of privacy and confidentiality when requesting internal data
-3. Focus on data most relevant to your specific problem and solution
-4. Document your data sources and analysis methods clearly
-5. Have backup plans for inaccessible data
+</div>
