@@ -1,249 +1,500 @@
-# Evidence Integration & Synthesis
-# Bringing together all four types of evidence to inform your decision
+<div style="font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1400px; margin: 0 auto; padding: 3px; background: linear-gradient(135deg, #f5f5f0 0%, #ffffff 100%); color: #2c2c2c;">
 
-## Evidence Summary by Type
+<!-- Main Header -->
+<div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 6px 10px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <h1 style="margin: 0; font-size: 2.4em; font-weight: 700; letter-spacing: -0.5px;">🧩 Evidence Integration & Synthesis</h1>
+    <p style="margin: 1px 0 0 0; opacity: 0.95; font-size: 1.15em;">Bayesian reasoning to synthesize evidence from all four sources</p>
+</div>
 
-### Scientific Evidence Summary
-**Key Finding 1:** [Main research conclusion relevant to your problem]
-- **Source Quality:** [High/Medium/Low]
-- **Relevance to Context:** [How well this applies to your specific situation]
-- **Certainty Level:** [How confident you are in this finding]
+<!-- X→Y Hypothesis Box -->
+<div style="background: linear-gradient(135deg, #8b7355 0%, #6B4E3D 100%); color: white; padding: 6px; border-radius: 8px; margin-bottom: 2px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <p style="margin: 0; font-size: 1.3em; font-weight: 600; text-align: center;">📊 X→Y Hypothesis: Collaboration Technology → Team Performance/Productivity</p>
+    <p style="margin: 1px 0 0 0; font-size: 1.05em; text-align: center; opacity: 0.95;">If cross-functional teams improve communication through unified collaboration platforms, then productivity increases, project timelines shorten, and frustration decreases</p>
+</div>
 
-**Key Finding 2:** [Second most important research conclusion]
-- **Source Quality:** [High/Medium/Low]  
-- **Relevance to Context:** [How well this applies to your specific situation]
-- **Certainty Level:** [How confident you are in this finding]
+<!-- VISUAL 1: Confidence Progression Chart -->
+<div style="background: white; border-radius: 8px; padding: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    <div style="background: linear-gradient(135deg, #1976d2 0%, #1565c0 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 3px; text-align: center;">
+        <h2 style="margin: 0; font-size: 1.8em; font-weight: 600;">📈 Bayesian Confidence Journey: 60% → 92%</h2>
+    </div>
+    
+    <div style="background: #f5f5f5; padding: 8px; border-radius: 6px;">
+        <!-- Starting Point -->
+        <div style="margin-bottom: 8px;">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 2px;">
+                <div style="background: #90caf9; color: #0d47a1; padding: 6px 10px; border-radius: 4px; font-weight: 700; font-size: 1.3em; min-width: 70px; text-align: center;">60%</div>
+                <div style="flex: 1; background: #e3f2fd; padding: 6px; border-radius: 4px; border-left: 4px solid #1976d2;">
+                    <strong style="color: #0d47a1; font-size: 1.15em;">Initial Belief</strong><span style="font-size: 1.1em;"> - Moderately optimistic, but uncertain about technology delivering results</span>
+                </div>
+            </div>
+            <div style="height: 6px; width: 60%; background: linear-gradient(to right, #90caf9, #1976d2); border-radius: 3px; margin-left: 80px;"></div>
+        </div>
+        
+        <!-- After Scientific Evidence -->
+        <div style="margin-bottom: 8px;">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 2px;">
+                <div style="background: #81c784; color: #1b5e20; padding: 6px 10px; border-radius: 4px; font-weight: 700; font-size: 1.3em; min-width: 70px; text-align: center;">86%</div>
+                <div style="flex: 1; background: #e8f5e9; padding: 6px; border-radius: 4px; border-left: 4px solid #388e3c;">
+                    <strong style="color: #1b5e20; font-size: 1.15em;">🔬 + Scientific Evidence (LR 4:1)</strong><span style="font-size: 1.1em;"> - Systematic reviews with r=0.42 effect size, 95% confidence</span>
+                </div>
+            </div>
+            <div style="height: 6px; width: 86%; background: linear-gradient(to right, #81c784, #388e3c); border-radius: 3px; margin-left: 80px;"></div>
+        </div>
+        
+        <!-- After Practitioner Evidence -->
+        <div style="margin-bottom: 8px;">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 2px;">
+                <div style="background: #66bb6a; color: #1b5e20; padding: 6px 10px; border-radius: 4px; font-weight: 700; font-size: 1.3em; min-width: 70px; text-align: center;">91%</div>
+                <div style="flex: 1; background: #e8f5e9; padding: 6px; border-radius: 4px; border-left: 4px solid #388e3c;">
+                    <strong style="color: #1b5e20; font-size: 1.15em;">👥 + Practitioner Evidence (LR 2.5:1)</strong><span style="font-size: 1.1em;"> - Real-world experiences confirm productivity, timeline, frustration impacts</span>
+                </div>
+            </div>
+            <div style="height: 6px; width: 91%; background: linear-gradient(to right, #66bb6a, #2e7d32); border-radius: 3px; margin-left: 80px;"></div>
+        </div>
+        
+        <!-- After Organizational Evidence -->
+        <div style="margin-bottom: 8px;">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 2px;">
+                <div style="background: #ffb74d; color: #e65100; padding: 6px 10px; border-radius: 4px; font-weight: 700; font-size: 1.3em; min-width: 70px; text-align: center;">89%</div>
+                <div style="flex: 1; background: #fff3e0; padding: 6px; border-radius: 4px; border-left: 4px solid #f57c00;">
+                    <strong style="color: #e65100; font-size: 1.15em;">📊 + Organizational Evidence (LR 0.9:1)</strong><span style="font-size: 1.1em;"> - Data shows -2.3% productivity decline, but causation unclear</span>
+                </div>
+            </div>
+            <div style="height: 6px; width: 89%; background: linear-gradient(to right, #ffb74d, #f57c00); border-radius: 3px; margin-left: 80px;"></div>
+        </div>
+        
+        <!-- Final: After Stakeholder Evidence -->
+        <div style="margin-bottom: 2px;">
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 2px;">
+                <div style="background: #4caf50; color: white; padding: 6px 10px; border-radius: 4px; font-weight: 700; font-size: 1.4em; min-width: 70px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">92%</div>
+                <div style="flex: 1; background: linear-gradient(135deg, #c8e6c9, #a5d6a7); padding: 6px; border-radius: 4px; border-left: 4px solid #2e7d32;">
+                    <strong style="color: #1b5e20; font-size: 1.15em;">🤝 + Stakeholder Evidence (LR 1.8:1)</strong><span style="font-size: 1.1em;"> - Feasibility confirmed, power holders support intervention</span>
+                </div>
+            </div>
+            <div style="height: 8px; width: 92%; background: linear-gradient(to right, #4caf50, #2e7d32); border-radius: 4px; margin-left: 80px; box-shadow: 0 2px 4px rgba(76,175,80,0.3);"></div>
+        </div>
+        
+        <!-- Final Conclusion Box -->
+        <div style="background: linear-gradient(135deg, #4caf50 0%, #2e7d32 100%); color: white; padding: 8px; border-radius: 6px; margin-top: 8px; text-align: center; box-shadow: 0 3px 6px rgba(0,0,0,0.15);">
+            <p style="margin: 0; font-size: 1.5em; font-weight: 700;">✅ FINAL CONFIDENCE: 92%</p>
+            <p style="margin: 2px 0 0 0; font-size: 1.2em; opacity: 0.95;">Very High Confidence - Proceed with Implementation</p>
+        </div>
+    </div>
+</div>
 
-**Key Finding 3:** [Third most important research conclusion]
-- **Source Quality:** [High/Medium/Low]
-- **Relevance to Context:** [How well this applies to your specific situation]  
-- **Certainty Level:** [How confident you are in this finding]
+<!-- VISUAL 2: Evidence Quality Dashboard -->
+<div style="background: white; border-radius: 8px; padding: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 3px; text-align: center;">
+        <h2 style="margin: 0; font-size: 1.5em; font-weight: 600;">🎯 Evidence Quality & Impact Dashboard</h2>
+    </div>
+    
+    <div style="background: #f5f5f5; padding: 8px; border-radius: 6px;">
+        
+        <!-- Quality Indicators Grid -->
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 6px; margin-bottom: 8px;">
+            
+            <!-- Scientific Evidence Card -->
+            <div style="background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%); padding: 6px; border-radius: 6px; border: 2px solid #4caf50; position: relative;">
+                <div style="position: absolute; top: -12px; right: 8px; background: #4caf50; color: white; padding: 4px 12px; border-radius: 12px; font-weight: 700; font-size: 0.9em; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+                    ⭐ BEST
+                </div>
+                <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                    <div style="background: #4caf50; color: white; padding: 8px; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; font-size: 1.5em;">🔬</div>
+                    <div>
+                        <h3 style="margin: 0; color: #1b5e20; font-size: 1.15em;">Scientific Evidence</h3>
+                        <p style="margin: 0; color: #2e7d32; font-size: 0.95em; font-weight: 600;">95% Trustworthy</p>
+                    </div>
+                </div>
+                <div style="background: white; padding: 4px; border-radius: 4px; margin-top: 3px;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Quality:</span>
+                        <span style="font-weight: 700; color: #4caf50;">⬤⬤⬤⬤⬤</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Impact on Decision:</span>
+                        <span style="font-weight: 700; color: #2e7d32;">+26% confidence</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Effect Size:</span>
+                        <span style="font-weight: 700; color: #1b5e20;">Medium (r=0.42)</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Practitioner Evidence Card -->
+            <div style="background: linear-gradient(135deg, #f1f8e9 0%, #dcedc8 100%); padding: 6px; border-radius: 6px; border: 2px solid #8bc34a;">
+                <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                    <div style="background: #8bc34a; color: white; padding: 8px; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; font-size: 1.5em;">👥</div>
+                    <div>
+                        <h3 style="margin: 0; color: #33691e; font-size: 1.15em;">Practitioner Evidence</h3>
+                        <p style="margin: 0; color: #558b2f; font-size: 0.95em; font-weight: 600;">High Credibility</p>
+                    </div>
+                </div>
+                <div style="background: white; padding: 4px; border-radius: 4px; margin-top: 3px;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Quality:</span>
+                        <span style="font-weight: 700; color: #8bc34a;">⬤⬤⬤⬤◯</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Impact on Decision:</span>
+                        <span style="font-weight: 700; color: #689f38;">+5% confidence</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Source:</span>
+                        <span style="font-weight: 700; color: #558b2f;">15 Practitioners</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Stakeholder Evidence Card -->
+            <div style="background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%); padding: 6px; border-radius: 6px; border: 2px solid #2196f3;">
+                <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                    <div style="background: #2196f3; color: white; padding: 8px; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; font-size: 1.5em;">🤝</div>
+                    <div>
+                        <h3 style="margin: 0; color: #0d47a1; font-size: 1.15em;">Stakeholder Evidence</h3>
+                        <p style="margin: 0; color: #1565c0; font-size: 0.95em; font-weight: 600;">Strong Support</p>
+                    </div>
+                </div>
+                <div style="background: white; padding: 4px; border-radius: 4px; margin-top: 3px;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Quality:</span>
+                        <span style="font-weight: 700; color: #2196f3;">⬤⬤⬤⬤◯</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Impact on Decision:</span>
+                        <span style="font-weight: 700; color: #1976d2;">+3% confidence</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Key Insight:</span>
+                        <span style="font-weight: 700; color: #0d47a1;">Feasible & Supported</span>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Organizational Evidence Card -->
+            <div style="background: linear-gradient(135deg, #fff3e0 0%, #ffe0b2 100%); padding: 6px; border-radius: 6px; border: 2px solid #ff9800;">
+                <div style="display: flex; align-items: center; gap: 6px; margin-bottom: 3px;">
+                    <div style="background: #ff9800; color: white; padding: 8px; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; font-size: 1.5em;">📊</div>
+                    <div>
+                        <h3 style="margin: 0; color: #e65100; font-size: 1.15em;">Organizational Evidence</h3>
+                        <p style="margin: 0; color: #f57c00; font-size: 0.95em; font-weight: 600;">Mixed Signal</p>
+                    </div>
+                </div>
+                <div style="background: white; padding: 4px; border-radius: 4px; margin-top: 3px;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Quality:</span>
+                        <span style="font-weight: 700; color: #ff9800;">⬤⬤⬤◯◯</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 2px;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Impact on Decision:</span>
+                        <span style="font-weight: 700; color: #f57c00;">-2% confidence</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between;">
+                        <span style="font-size: 0.9em; color: #2c2c2c;">Concern:</span>
+                        <span style="font-weight: 700; color: #e65100;">Causation Unclear</span>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        
+        <!-- Overall Evidence Score -->
+        <div style="background: linear-gradient(135deg, #4caf50 0%, #2e7d32 100%); padding: 6px 10px; border-radius: 4px; box-shadow: 0 1px 2px rgba(0,0,0,0.1); max-width: 500px; margin: 0 auto;">
+            <div style="text-align: center; color: white;">
+                <p style="margin: 0; font-size: 1em; opacity: 0.9; font-weight: 600;">COMBINED EVIDENCE SCORE</p>
+                <div style="display: flex; justify-content: center; align-items: baseline; gap: 6px; margin: 4px 0;">
+                    <span style="font-size: 3em; font-weight: 700; line-height: 1;">92</span>
+                    <span style="font-size: 1.7em; font-weight: 700;">/100</span>
+                </div>
+                <p style="margin: 0; font-size: 1.15em; font-weight: 600;">VERY HIGH CONFIDENCE</p>
+            </div>
+            
+            <!-- Mini Progress Bar -->
+            <div style="background: rgba(255,255,255,0.3); height: 6px; border-radius: 2px; margin-top: 5px; overflow: hidden;">
+                <div style="background: white; height: 100%; width: 92%; border-radius: 2px; box-shadow: 0 0 4px rgba(255,255,255,0.4);"></div>
+            </div>
+        </div>
+        
+        <!-- Key Takeaway -->
+        <div style="background: white; padding: 6px; border-radius: 6px; margin-top: 6px; border-left: 4px solid #4caf50;">
+            <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+                <strong style="color: #2e7d32;">✓ Key Takeaway:</strong> Scientific evidence provides the strongest foundation (95% confidence, medium effect sizes). Practitioner and stakeholder evidence reinforce feasibility. Organizational data confirms the problem exists but requires careful interpretation.
+            </p>
+        </div>
+        
+    </div>
+</div>
 
-**Overall Scientific Evidence Strength:** [High/Medium/Low/Insufficient]
+<!-- Bayesian Analysis Container -->
+<div style="background: #f5ebe0; border-radius: 8px; padding: 4px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); margin-bottom: 2px;">
+    
+    <!-- Scientific Evidence -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">🔬 1. Scientific Evidence</h2>
+        </div>
+        
+        <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 6px; overflow: hidden; margin-bottom: 2px;">
+            <thead>
+                <tr style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white;">
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #4A3429; width: 25%;">Bayesian Component</th>
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #4A3429;">Analysis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Prior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #1976d2; font-size: 1.15em;">60%</strong><br>
+<strong>Justification:</strong> Before examining research, I was moderately optimistic. Common sense suggests better communication tools should help, but I've seen technology fail to deliver promised benefits. Started at 60% - leaning positive but uncertain.
+                    </td>
+                </tr>
+                <tr style="background: #f5ebe0;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Likelihood Ratio</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.15em;">4:1 (Strongly Supports)</strong><br>
+<strong>Evidence Quality:</strong> Very high (95% confidence from Paul et al. systematic review, 80% from Maruping & Agarwal)<br>
+<strong>Effect Sizes:</strong> r = 0.42 (medium, explains 18% variance), β = 0.38 (0.38 SD performance increase)<br>
+<strong>Relevance:</strong> Both studies directly measure collaboration tech → team performance relationship
+                    </td>
+                </tr>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Posterior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.2em;">86%</strong><br>
+<strong>Calculation:</strong> Prior 60% + strong evidence (LR 4:1) = 86% confidence<br>
+<strong>Interpretation:</strong> Scientific research strongly confirms the hypothesis. High-quality systematic reviews provide robust evidence that collaboration technology improves team performance.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- Practitioner Evidence -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">👥 2. Practitioner Evidence</h2>
+        </div>
+        
+        <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 6px; overflow: hidden; margin-bottom: 2px;">
+            <thead>
+                <tr style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white;">
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #a68b5b; width: 25%;">Bayesian Component</th>
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #a68b5b;">Analysis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Prior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #1976d2; font-size: 1.15em;">86%</strong> (Updated from scientific evidence)<br>
+<strong>Justification:</strong> Starting with the 86% confidence from scientific research. Now examining whether real-world practitioner experiences align with or contradict research findings.
+                    </td>
+                </tr>
+                <tr style="background: #f5ebe0;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Likelihood Ratio</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.15em;">2.5:1 (Moderately Supports)</strong><br>
+<strong>Evidence Quality:</strong> High credibility - managers with direct oversight + frontline employees<br>
+<strong>Key Insights:</strong> All practitioners confirmed slowdowns in productivity, longer timelines, and frustration from poor communication<br>
+<strong>Limitations:</strong> Small sample (3 managers, 12 employees), potential selection/response/confirmation biases reduce strength from 3:1 to 2.5:1
+                    </td>
+                </tr>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Posterior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.2em;">91%</strong><br>
+<strong>Calculation:</strong> Prior 86% + moderate practitioner support (LR 2.5:1) = 91% confidence<br>
+<strong>Interpretation:</strong> Practitioner evidence reinforces scientific findings. Real-world experiences validate that communication problems directly impact productivity, timelines, and morale - exactly as research predicted.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- Organizational Evidence -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">📊 3. Organizational Evidence</h2>
+        </div>
+        
+        <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 6px; overflow: hidden; margin-bottom: 2px;">
+            <thead>
+                <tr style="background: linear-gradient(135deg, #6B4E3D 0%, #4A3429 100%); color: white;">
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #4A3429; width: 25%;">Bayesian Component</th>
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #4A3429;">Analysis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Prior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #1976d2; font-size: 1.15em;">91%</strong> (Updated from practitioner evidence)<br>
+<strong>Justification:</strong> Entering with high confidence from scientific + practitioner evidence. Now checking if actual organizational data (BLS productivity metrics, labor costs, workforce composition) confirms the problem exists in this sector.
+                    </td>
+                </tr>
+                <tr style="background: #f5ebe0;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Likelihood Ratio</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #f57c00; font-size: 1.15em;">0.9:1 (Slightly Against)</strong><br>
+<strong>Evidence Quality:</strong> High (large BLS datasets: 1.2M-8.7M employees) but moderate context barriers<br>
+<strong>Key Data:</strong> -2.3% productivity decline over 21 months, +11.4% cross-functional roles, 58% hybrid/remote workforce<br>
+<strong>Concern:</strong> Data confirms problem exists BUT lacks direct causation proof. Could be communication issues OR other factors (economic conditions, restructuring pain, learning curves). Context limitations prevent stronger support.
+                    </td>
+                </tr>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Posterior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.2em;">89%</strong><br>
+<strong>Calculation:</strong> Prior 91% + slight negative adjustment (LR 0.9:1) = 89% confidence<br>
+<strong>Interpretation:</strong> Organizational data shows productivity declining in context with more cross-functional work and remote collaboration, consistent with hypothesis. However, can't definitively isolate communication as THE cause vs. contributing factor. Slight downward adjustment reflects uncertainty about causation.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- Stakeholder Evidence -->
+    <div style="margin-bottom: 3px;">
+        <div style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white; padding: 4px 8px; border-radius: 6px; margin-bottom: 2px;">
+            <h2 style="margin: 0; font-size: 1.35em; font-weight: 600;">🤝 4. Stakeholder Evidence</h2>
+        </div>
+        
+        <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 6px; overflow: hidden; margin-bottom: 2px;">
+            <thead>
+                <tr style="background: linear-gradient(135deg, #8b7355 0%, #a68b5b 100%); color: white;">
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #a68b5b; width: 25%;">Bayesian Component</th>
+                    <th style="padding: 8px; text-align: left; font-size: 1.1em; border: 1px solid #a68b5b;">Analysis</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Prior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #1976d2; font-size: 1.15em;">89%</strong> (Updated from organizational evidence)<br>
+<strong>Justification:</strong> High confidence from scientific + practitioner + organizational evidence. Now examining stakeholder perspectives - do power holders (executives, IT, regulators) and affected parties (employees, clients) support intervention feasibility?
+                    </td>
+                </tr>
+                <tr style="background: #f5ebe0;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Likelihood Ratio</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.15em;">1.8:1 (Moderately Supports)</strong><br>
+<strong>Evidence Quality:</strong> High - credible third-party sources (PMI, Gartner, Forrester, SHRM, HBR, SEC)<br>
+<strong>Key Insights:</strong> Power holders identified (executives, dept heads, IT/Finance, regulators) show feasibility. Clients demand better responsiveness. Employees want better tools.<br>
+<strong>Limitations:</strong> Secondary sources instead of direct stakeholder interviews. Some concerns about transition costs, privacy, tech skill gaps that need mitigation. Not as strong as direct primary evidence would be (2.5:1 → 1.8:1).
+                    </td>
+                </tr>
+                <tr style="background: #fafaf8;">
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; font-weight: 600; color: #4A3429; vertical-align: top;">Posterior Probability</td>
+                    <td style="padding: 8px; border: 1px solid #d4c4a8; color: #2c2c2c; line-height: 1.4;">
+<strong style="color: #388e3c; font-size: 1.2em;">92%</strong><br>
+<strong>Calculation:</strong> Prior 89% + moderate stakeholder support (LR 1.8:1) = 92% confidence<br>
+<strong>Interpretation:</strong> Stakeholder analysis confirms intervention is feasible and supported. Key decision-makers have budget/implementation authority, affected parties want improvement, risks are manageable with safeguards. Strengthens overall confidence.
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 
-### Practitioner Evidence Summary
-**Key Insight 1:** [Main lesson from practitioner experience]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+</div>
 
-**Key Insight 2:** [Second most important practitioner lesson]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+<!-- Final Synthesis Section -->
+<div style="background: linear-gradient(135deg, #1976d2 0%, #1565c0 100%); color: white; border-radius: 8px; padding: 6px; box-shadow: 0 3px 8px rgba(0,0,0,0.15); margin-bottom: 2px;">
+    <h2 style="margin: 0 0 2px 0; font-size: 1.8em; font-weight: 700; text-align: center;">🎯 FINAL INTEGRATED SYNTHESIS</h2>
+    
+    <div style="background: rgba(255,255,255,0.95); color: #2c2c2c; border-radius: 6px; padding: 6px; margin-top: 2px;">
+        
+        <!-- Combined Posterior -->
+        <div style="background: linear-gradient(135deg, #388e3c 0%, #2e7d32 100%); color: white; padding: 6px; border-radius: 6px; text-align: center; margin-bottom: 3px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+            <p style="margin: 0; font-size: 2.2em; font-weight: 700;">92% CONFIDENCE</p>
+            <p style="margin: 1px 0 0 0; font-size: 1.15em; opacity: 0.95;">Collaboration Technology → Improved Team Performance</p>
+        </div>
+        
+        <!-- Evidence Convergence -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: #4A3429; color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.25em; font-weight: 600;">📈 How Evidence Sources Converged</h3>
+            </div>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 3px;">
+                <div style="background: #e8f5e9; padding: 4px; border-radius: 4px; border-left: 4px solid #388e3c;">
+                    <p style="margin: 0; font-weight: 600; color: #2e7d32; font-size: 1.05em;">✅ Strong Convergence</p>
+                    <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Scientific + Practitioner:</strong> Research (r=0.42, β=0.38) perfectly aligns with real-world reports of productivity slowdowns, timeline delays, and frustration from poor communication. Theory matches practice.</p>
+                </div>
+                
+                <div style="background: #fff3e0; padding: 4px; border-radius: 4px; border-left: 4px solid #f57c00;">
+                    <p style="margin: 0; font-weight: 600; color: #e65100; font-size: 1.05em;">⚠️ Partial Convergence</p>
+                    <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Organizational Data:</strong> Confirms problem exists (-2.3% productivity with +11.4% cross-functional roles) but can't isolate communication as sole cause. Correlational, not causal. Directionally supports hypothesis.</p>
+                </div>
+                
+                <div style="background: #e3f2fd; padding: 4px; border-radius: 4px; border-left: 4px solid #1976d2;">
+                    <p style="margin: 0; font-weight: 600; color: #0d47a1; font-size: 1.05em;">ℹ️ Supportive Context</p>
+                    <p style="margin: 1px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;"><strong>Stakeholder Analysis:</strong> Identifies implementation feasibility (power holders support it), demand from affected parties (clients, employees), and manageable risks. Doesn't test hypothesis directly but confirms intervention is viable.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Conflicting Evidence -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: #4A3429; color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.25em; font-weight: 600;">⚔️ Conflicts & Contradictions</h3>
+            </div>
+            
+            <div style="background: #fafaf8; padding: 4px; border-radius: 4px; border-left: 4px solid #6B4E3D;">
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;"><strong>No major conflicts identified.</strong> All four evidence types point in the same direction - poor communication hurts productivity, and improving collaboration tools should help. Minor tensions:</p>
+                <ul style="margin: 2px 0 0 0; padding-left: 18px; color: #2c2c2c; line-height: 1.3; font-size: 1.05em;">
+                    <li style="margin: 0;"><strong>Scientific optimism vs. Organizational caution:</strong> Research shows strong effects (r=0.42), but organizational data reminds us real-world implementation faces multiple confounding variables (economic conditions, change management challenges).</li>
+                    <li style="margin: 0;"><strong>Practitioner enthusiasm vs. Stakeholder concerns:</strong> Frontline practitioners want better tools immediately, but stakeholders (IT, Finance) raise valid concerns about costs, privacy, training needs. Both perspectives are true - not contradictory, just different priorities.</li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- Bayesian Journey -->
+        <div style="margin-bottom: 3px;">
+            <div style="background: #4A3429; color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.25em; font-weight: 600;">🔄 Bayesian Journey: How Beliefs Updated</h3>
+            </div>
+            
+            <div style="background: linear-gradient(to right, #e3f2fd, #e8f5e9); padding: 4px; border-radius: 6px; border: 2px solid #1976d2;">
+                <p style="margin: 0; color: #2c2c2c; line-height: 1.5; font-size: 1.05em;">
+                    <strong style="color: #1976d2;">Started at 60%</strong> (moderately optimistic but uncertain) 
+                    → <strong style="color: #388e3c;">Scientific evidence (LR 4:1) pushed to 86%</strong> (high confidence from systematic reviews) 
+                    → <strong style="color: #388e3c;">Practitioner insights (LR 2.5:1) increased to 91%</strong> (real-world validation) 
+                    → <strong style="color: #f57c00;">Organizational data (LR 0.9:1) slightly adjusted to 89%</strong> (problem confirmed but causation unclear) 
+                    → <strong style="color: #388e3c;">Stakeholder analysis (LR 1.8:1) finalized at 92%</strong> (feasibility + support confirmed)
+                </p>
+            </div>
+        </div>
+        
+        <!-- Overall Confidence Statement -->
+        <div style="margin-bottom: 0;">
+            <div style="background: #4A3429; color: white; padding: 3px 6px; border-radius: 4px; margin-bottom: 2px;">
+                <h3 style="margin: 0; font-size: 1.25em; font-weight: 600;">✅ Overall Confidence in X→Y Hypothesis</h3>
+            </div>
+            
+            <div style="background: #e8f5e9; padding: 5px; border-radius: 6px; border: 3px solid #388e3c;">
+                <p style="margin: 0; color: #1b5e20; line-height: 1.5; font-size: 1.1em; font-weight: 600;">
+                    <strong style="font-size: 1.25em; color: #2e7d32;">VERY HIGH CONFIDENCE (92%)</strong><br><br>
+                    The evidence overwhelmingly supports the hypothesis that implementing unified collaboration technology will improve cross-functional team performance. High-quality scientific research provides strong causal evidence (95% confidence, medium effect sizes), practitioner experiences validate real-world applicability, organizational data confirms the problem exists in this sector, and stakeholder analysis shows intervention is feasible and supported by decision-makers.
+                    <br><br>
+                    <strong style="color: #d32f2f;">Remaining 8% uncertainty</strong> stems from: (1) organizational data can't isolate communication as sole cause of productivity decline, (2) practitioner sample size is small, (3) stakeholder evidence uses secondary sources, and (4) real-world implementation complexity may reduce effect sizes from research predictions.
+                    <br><br>
+                    <strong style="color: #1976d2;">Recommendation:</strong> Proceed with implementation. The evidence base is sufficiently robust to justify investment in collaboration technology, with appropriate safeguards for identified stakeholder concerns (training, privacy, change management).
+                </p>
+            </div>
+        </div>
+        
+    </div>
+</div>
 
-**Key Insight 3:** [Third most important practitioner lesson]
-- **Source Credibility:** [How trustworthy the practitioner source is]
-- **Context Similarity:** [How similar their situation is to yours]
-- **Implementation Detail:** [How much you know about how they did it]
+<!-- Bayes Calculator Tool Reference -->
+<div style="background: #fafaf8; border-left: 4px solid #8b7355; padding: 6px; border-radius: 6px; margin-bottom: 2px;">
+    <p style="margin: 0 0 2px 0; color: #4A3429; font-weight: 600; font-size: 1.15em;">🔧 Tools Used for Bayesian Analysis</p>
+    <ul style="margin: 0; padding-left: 18px; color: #2c2c2c; line-height: 1.4; font-size: 1.05em;">
+        <li style="margin: 0;"><strong>Bayes Manager App:</strong> <a href="https://cebma.org/resources/tools/bayes-manager-app/" target="_blank" style="color: #1976d2;">cebma.org/resources/tools/bayes-manager-app/</a></li>
+        <li style="margin: 0;"><strong>Bayes Rule Calculator:</strong> <a href="https://cebma.org/bayes-rule-calculator/" target="_blank" style="color: #1976d2;">cebma.org/bayes-rule-calculator/</a></li>
+    </ul>
+    <p style="margin: 2px 0 0 0; color: #2c2c2c; line-height: 1.3; font-size: 1.05em; font-style: italic;">These tools help systematically update beliefs as new evidence is considered, ensuring rigorous integration of multiple evidence sources.</p>
+</div>
 
-**Overall Practitioner Evidence Strength:** [High/Medium/Low/Insufficient]
-
-### Organizational Evidence Summary
-**Key Data Point 1:** [Most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
-
-**Key Data Point 2:** [Second most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
-
-**Key Data Point 3:** [Third most important organizational fact/metric]
-- **Data Quality:** [How reliable and accurate this data is]
-- **Trend Direction:** [Whether this suggests problem is getting better/worse/stable]
-- **Decision Relevance:** [How directly this informs your decision]
-
-**Overall Organizational Evidence Strength:** [High/Medium/Low/Insufficient]
-
-### Stakeholder Evidence Summary
-**Key Stakeholder Insight 1:** [Most important stakeholder perspective]
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective]
-- **Implementation Implication:** [What this means for how you implement]
-
-**Key Stakeholder Insight 2:** [Second most important stakeholder perspective] 
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective]
-- **Implementation Implication:** [What this means for how you implement]
-
-**Key Stakeholder Insight 3:** [Third most important stakeholder perspective]
-- **Representative Level:** [How well this represents broader stakeholder views]
-- **Bias Assessment:** [Potential biases in this perspective] 
-- **Implementation Implication:** [What this means for how you implement]
-
-**Overall Stakeholder Evidence Strength:** [High/Medium/Low/Insufficient]
-
-## Cross-Evidence Analysis
-
-### Convergent Findings (Where Evidence Types Agree)
-
-#### Strong Convergence
-**Finding:** [What multiple evidence types consistently support]
-**Supporting Evidence Types:** [Which types of evidence support this]
-**Confidence Level:** [High/Medium/Low] - [Why you're confident in this]
-**Implication:** [What this convergent finding means for your decision]
-
-#### Moderate Convergence  
-**Finding:** [What some evidence types support with some variation]
-**Supporting Evidence Types:** [Which types of evidence support this]
-**Variation Notes:** [How the evidence types differ slightly in their conclusions]
-**Implication:** [What this means for your decision]
-
-### Divergent Findings (Where Evidence Types Disagree)
-
-#### Major Divergence
-**Issue:** [What the evidence types disagree about]
-**Scientific Evidence Says:** [What research suggests]
-**Practitioner Evidence Says:** [What practitioners report]
-**Organizational Evidence Says:** [What your data shows]
-**Stakeholder Evidence Says:** [What stakeholders believe]
-
-**Possible Explanations for Disagreement:**
-- Context differences: [How different contexts might explain the disagreement]
-- Timing factors: [How when evidence was collected might matter]
-- Bias influences: [How biases might create apparent disagreements]
-- Quality differences: [How evidence quality might explain disagreements]
-
-**Resolution Approach:** [How you'll handle this disagreement in your decision]
-
-#### Minor Divergence
-**Issue:** [What the evidence types disagree about - less critical]
-**Resolution Approach:** [How you'll handle this disagreement]
-
-### Evidence Gaps
-
-#### Critical Gaps
-**Gap 1:** [Important question none of your evidence answers well]
-- **Impact on Decision:** [How this gap affects your ability to decide]
-- **Mitigation Strategy:** [How you'll proceed despite this gap]
-
-**Gap 2:** [Second important question with insufficient evidence]
-- **Impact on Decision:** [How this gap affects your ability to decide]
-- **Mitigation Strategy:** [How you'll proceed despite this gap]
-
-#### Minor Gaps
-**Gap:** [Less critical question with insufficient evidence]
-**Mitigation Strategy:** [How you'll handle this]
-
-## Evidence-Based Problem Refinement
-
-### Original Problem Statement
-[Your original problem definition]
-
-### Evidence-Refined Problem Statement  
-[How your understanding of the problem has changed based on all the evidence]
-
-**Key Refinements:**
-- **Scope Changes:** [How evidence changed your understanding of problem scope]
-- **Root Cause Updates:** [How evidence changed your understanding of causes]
-- **Impact Reassessment:** [How evidence changed your understanding of problem impact]
-- **Stakeholder Effects:** [How evidence revealed different stakeholder impacts than expected]
-
-## Evidence-Based Solution Development
-
-### Original Solution Concept
-[Your initial solution idea]
-
-### Evidence-Informed Solution Design
-[How your solution has evolved based on evidence]
-
-**Scientific Evidence Contributions:**
-- **Design Elements:** [What research suggests should be included in solution]
-- **Implementation Approaches:** [What research says about how to implement]
-- **Success Factors:** [What research identifies as crucial for success]
-
-**Practitioner Evidence Contributions:**
-- **Practical Modifications:** [How practitioner experience suggests modifying your approach]
-- **Implementation Lessons:** [What practitioners learned about implementation]
-- **Avoiding Pitfalls:** [What practitioners say not to do]
-
-**Organizational Evidence Contributions:**  
-- **Resource Requirements:** [What organizational data suggests about resource needs]
-- **Timing Considerations:** [What organizational data suggests about timing]
-- **Readiness Assessment:** [Whether organizational data suggests readiness for solution]
-
-**Stakeholder Evidence Contributions:**
-- **Stakeholder Support Elements:** [What needs to be included to maintain stakeholder support]
-- **Resistance Management:** [How to address stakeholder concerns and resistance]
-- **Communication Needs:** [What stakeholders need to know and when]
-
-## Integrated Evidence Assessment
-
-### Overall Evidence Quality
-
-#### Evidence Strength by Decision Component
-**Problem Definition:** [How well all evidence supports your problem understanding]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports problem definition]
-- Evidence Quality: [High/Medium/Low]
-
-**Solution Design:** [How well all evidence supports your solution approach]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports solution design]
-- Evidence Quality: [High/Medium/Low]
-
-**Implementation Approach:** [How well all evidence supports your implementation plan]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports implementation approach]
-- Evidence Quality: [High/Medium/Low]
-
-**Success Prediction:** [How well all evidence supports predictions about success]
-- Strongest Supporting Evidence: [Which evidence type most strongly supports success predictions]
-- Evidence Quality: [High/Medium/Low]
-
-#### Evidence-Based Confidence Assessment
-**Overall Confidence in Decision:** [High/Medium/Low]
-
-**High Confidence Areas:** [Decision aspects where evidence is strong and convergent]
-**Medium Confidence Areas:** [Decision aspects where evidence is moderate or somewhat mixed]
-**Low Confidence Areas:** [Decision aspects where evidence is weak or highly divergent]
-
-### Risk Assessment Based on Evidence
-
-#### Risks with Strong Evidence Support
-**Risk 1:** [Risk that multiple evidence types consistently identify]
-- **Likelihood:** [High/Medium/Low based on evidence]
-- **Impact:** [High/Medium/Low based on evidence]
-- **Mitigation Strategy:** [How you'll address this evidence-supported risk]
-
-#### Risks with Weak Evidence Support
-**Risk:** [Risk that only one type of evidence suggests or that evidence is mixed on]
-- **Evidence Uncertainty:** [Why evidence doesn't clearly support this risk]
-- **Approach:** [How you'll handle this uncertain risk]
-
-## Evidence-Based Recommendations
-
-### Recommendation 1: [Primary recommendation based on integrated evidence]
-**Supporting Evidence Types:** [Which evidence types support this recommendation]
-**Confidence Level:** [High/Medium/Low]
-**Implementation Priority:** [High/Medium/Low]
-
-**Evidence Basis:**
-- **Scientific Support:** [How research supports this recommendation]
-- **Practitioner Support:** [How practitioner experience supports this recommendation]  
-- **Organizational Support:** [How organizational data supports this recommendation]
-- **Stakeholder Support:** [How stakeholder input supports this recommendation]
-
-### Recommendation 2: [Second recommendation based on integrated evidence]
-[Follow same structure as Recommendation 1]
-
-### Recommendation 3: [Third recommendation based on integrated evidence]
-[Follow same structure as Recommendation 1]
-
-## Evidence Limitations and Uncertainties
-
-### Key Limitations Affecting Recommendations
-[The most important limitations in your evidence base that affect your recommendations]
-
-### Uncertainties Requiring Monitoring
-[Things you'll need to track during implementation because evidence is uncertain]
-
-### Future Evidence Needs
-[Additional evidence you should collect during or after implementation]
-
----
-INSTRUCTIONS:
-1. Look for patterns where different evidence types support similar conclusions
-2. Pay special attention to disagreements between evidence types
-3. Use evidence integration to refine both your problem understanding and solution design
-4. Be honest about where evidence is strong vs. weak
-5. Make recommendations that are proportional to the strength of supporting evidence
+</div>
